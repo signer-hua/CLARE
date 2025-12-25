@@ -1,0 +1,11 @@
+实验时间: 20251225_205644
+模型路径: models\classifier\best_model.pt
+模型类型: base
+数据路径: data/processed/fraud_test_small.txt
+样本数量: 50
+攻击参数: k=20, batch_size=32, max_length=128
+总耗时: 14.28秒
+
+攻击成功率: 43.75%
+原始准确率: 96.00%
+攻击后准确率: 56.25%

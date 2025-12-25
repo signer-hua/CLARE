@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-12-21 22:14:44",
+  "experiments": [
+    {
+      "model_type": "base",
+      "model_path": "models\\classifier\\best_model.pt",
+      "model_name": "best_model.pt",
+      "output_dir": "./experiments\\batch_experiment_20251221_220938\\attack_base_best_model",
+      "result_file": "./experiments\\batch_experiment_20251221_220938\\attack_base_best_model\\attack_results_20251221_221444.json",
+      "stats": {
+        "total_samples": 50,
+        "original_accuracy": 0.74,
+        "after_attack_accuracy": 0.0,
+        "attack_success_rate": 1.0,
+        "avg_queries": 521.7297297297297,
+        "avg_change_rate": 0.035204933830142615,
+        "success_count": 37
+      }
+    }
+  ],
+  "summary_stats": {
+    "total_experiments": 1,
+    "successful_experiments": 1,
+    "models": [
+      "base - best_model.pt"
+    ],
+    "success_rates": [
+      1.0
+    ],
+    "after_attack_accuracies": [
+      0.0
+    ],
+    "original_accuracies": [
+      0.74
+    ],
+    "avg_success_rate": 1.0,
+    "avg_after_accuracy": 0.0,
+    "avg_original_accuracy": 0.74
+  }
+}

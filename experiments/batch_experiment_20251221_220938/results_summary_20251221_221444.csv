@@ -1,0 +1,2 @@
+﻿Model Type,Model,Attack Success Rate,After Attack Accuracy,Original Accuracy,Avg Queries,Avg Change Rate,Success Count,Total Samples
+BASE,best_model.pt,100.00%,0.00%,74.00%,521.7,3.52%,37,50
