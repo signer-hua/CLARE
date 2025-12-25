@@ -1,0 +1,9 @@
+{
+  "total_samples": 50,
+  "original_accuracy": 0.74,
+  "after_attack_accuracy": 0.0,
+  "attack_success_rate": 1.0,
+  "avg_queries": 521.7297297297297,
+  "avg_change_rate": 0.035204933830142615,
+  "success_count": 37
+}

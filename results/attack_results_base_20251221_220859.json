@@ -1,0 +1,4171 @@
+[
+  {
+    "original_text": "喂，你好，我是东莞银行的客户经理，这边有个特别好的信用贷款机会，不知道你是否有兴趣了解一下？ 嗯，怎么样？ 我们这次的贷款利率非常优惠，而且手续简便，不需要抵押，只要你有稳定的收入，就能快速办理。 真的吗？那我怎么申请呢？ 太好了，你只需要点击这个链接，下载我们的官方APP，然后填写一些基本信息，就能完成申请了。 好的，那我得先看看这个APP安全吗？ 放心，我们的APP非常安全，很多客户都已经在使用了，你下载之后直接注册一个账号就行。 那我需要提供什么资料呢？ 你只需要提供身份证和收入证明，我们的审核过程非常快，一般当天就能完成审批。 好吧，我试试看。 太好了，你下载之后如果有什么问题，可以直接联系我，我会帮你的。",
+    "adversarial_text": "喂，你好，我是东莞银行的客户经理，这边有个特别好的信用贷款机会，不知道你是否有兴趣了解一下？ 嗯，怎么样？ 我们这次的贷XYYYY优惠，而且手续简便，不需要抵押，只要你有稳定的收入，就能快速办理。 真的吗？那我怎么申请呢？ 太好了，你X需要点击这X链X，下载我们的官方APP，然后填写一些基本信息，就能完成申请了。 好的，那我得先看看这个APP安全吗？ 放心，我们的APP非常安全，很多客户都已经在使用了，你下载之后直接注册一个账号就行。 那我需要提供什么资料呢？ 你只需要提供身份证和收入证明，我们的审核过程非常快，一般当天就能完成审批。 好吧，我试试看。 太好了，你下载之后如果有什么问题，可以直接联系我，我会帮你的。",
+    "label": 1,
+    "query_times": 750,
+    "changes": [
+      {
+        "position": 62,
+        "original": "率",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0012168288230895996
+      },
+      {
+        "position": 64,
+        "original": "常",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.021937251091003418
+      },
+      {
+        "position": 125,
+        "original": "接",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0056923627853393555
+      },
+      {
+        "position": 117,
+        "original": "只",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.10069847106933594
+      },
+      {
+        "position": 61,
+        "original": "利",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.17764878273010254
+      },
+      {
+        "position": 63,
+        "original": "非",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.07904624938964844
+      },
+      {
+        "position": 123,
+        "original": "个",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.04160118103027344
+      },
+      {
+        "position": 60,
+        "original": "款",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 8,
+    "text_length": 311
+  },
+  {
+    "original_text": "喂，你好，请问是李华吗？ 是的，你是哪位？ 你好，我是工商银行的客户经理，你最近是否有资金需求？我们这里可以提供低息贷款。 哦，贷款啊，我现在暂时不需要。 好的，如果你有需要的话可以随时联系我。对了，你最近有没有接到快递丢失的通知？ 快递丢失？没有啊，怎么了？ 是这样的，我们这边接到通知，你的一个快递在运输过程中丢失了。为了补偿你，我们可以为你办理退款。 真的吗？那怎么办理退款？ 很简单，你只需要点击我们发给你的链接，填写相关信息，就可以完成退款了。 好的，我等下看看。 好的，链接我稍后会发给你。另外，如果你对我们的贷款服务感兴趣，也可以下载我们的APP，操作非常方便。 下载APP？那怎么下载？ 你只需要在手机应用商店搜索‘工商银行贷款’，下载安装后注册账号，就可以申请了。 好的，我试试看。谢谢。 不客气，有任何问题可以随时联系我。祝你一天愉快。",
+    "adversarial_text": "喂，你好，请问是李华吗？ 是的，你是哪位？ 你好，我是工商银行的客户经理，你最近是否有资金XX？我们这里可以提供低息贷款。 哦，贷款啊，我现在暂时不需要。 好的，如果你有需要的话可以随时联系我。对了，你最近有没有接到快递丢失的通知？ 快递丢失？没有啊，怎么了？ 是这样的，我们这边接到通知，你的一个快递在运输过程中丢失了。为了补偿你，我们可以为你办理退款。 真的吗？那怎么办理退款？ 很简单，你只需要点击我们发给你的链接，填写相关信息，就可以完成退款了。 好的，我等下看看。 好的，链接我稍后会发给你。另外，如果你对我们的贷款服务感兴趣，也可以下载我们的APP，操作非常方便。 下载APP？那怎么下载？ 你只需要在手机应用商店搜索‘工商银行贷款’，下载安装后注册账号，就可以申请了。 好的，我试试看。谢谢。 不客气，有任何问题可以随时联系我。祝你一天愉快。",
+    "label": 1,
+    "query_times": 382,
+    "changes": [
+      {
+        "position": 46,
+        "original": "求",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0012746453285217285
+      },
+      {
+        "position": 45,
+        "original": "需",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 2,
+    "text_length": 378
+  },
+  {
+    "original_text": "喂 喂，你好 你是小王吗？ 是的，你是哪位？ 我是速达快递的客服专员，你有一份快递需要确认签收。 好的，我的快递在哪儿？ 你的快递在运输过程中不慎丢失了，不过我们已经为你申请了赔偿。 那怎么申请赔偿？ 你只需要点击这个链接，按照提示操作就可以完成赔偿申请了。 好的，我马上去操作。 稍等，为了确保你的信息安全，你需要先下载我们的官方APP，这样可以更安全地处理赔偿事宜。 那APP叫什么名字？ APP叫做‘速达安全助手’，下载后打开，输入你的快递单号，就可以开始申请了。 好的，我知道了，谢谢。 不客气，还有什么问题可以随时联系我，祝你一切顺利。",
+    "adversarial_text": "喂 喂，你好 你是小王吗？ 是的，你是哪位？ 我是速达快递的客服专员，你有一份快递需要确认签收。 好的，我的快递在哪儿？ 你的快递在运输过程中不慎丢失了，不过我们已经为你申请了赔偿。 那怎么申请赔偿？ 你只需要点击这个链接，按照提示XX就可以完成赔偿申请了。 好的，我马上去操作。 稍等，为了确保你的信息安全，你需要先下载我们的官方APP，这样可以更安全地处理赔偿事宜。 那APP叫什么名字？ APP叫做‘速达安全助手’，下载后打开，输入你的快递单号，就可以开始申请了。 好的，我知道了，谢谢。 不客气，还有什么问题可以随时联系我，祝你一切顺利。",
+    "label": 1,
+    "query_times": 277,
+    "changes": [
+      {
+        "position": 117,
+        "original": "作",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.1746726632118225
+      },
+      {
+        "position": 116,
+        "original": "操",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 2,
+    "text_length": 273
+  },
+  {
+    "original_text": "喂，你好，我是阿里巴巴全球速卖通的客服，目前我们有一个特别优惠的活动，想邀请你参加。 你好，什么活动？ 我们这次活动主要是针对新用户，只要你下载我们的APP，注册后就能获得一百元的优惠券。 哦，真的吗？那我怎么下载这个APP呢？ 非常简单，你可以直接点击我发给你的链接，就能直接下载了。 好的，那我需要提供什么信息吗？ 你只需要提供手机号码注册，然后设置一个简单的密码就可以了。 那我用我的手机号码注册，密码怎么办？ 密码可以设置为两个小写的a，后面加上你的生日日期，比如一二三四五六。 好的，那我试试看。 好的，如果遇到任何问题，可以随时联系我们的客服，祝你购物愉快。",
+    "adversarial_text": "喂，你好，我是阿里巴巴全球速卖通的客服，目前我们有一个特别优惠的活动，想邀请你参加。 你好，什么活动？ 我们这次活动主要是针对新用户，只要你下载我们的YYY，YY后就能获得一百元的优惠券。 哦，真的吗？那我怎么下载这个APP呢？ 非XX单，你可以X接点击我发给你的链接，就能直接下载了。 好的，那我需要提供什么信息吗？ 你只需要提供手机号码注册，然后设置一个简单的密码就可以了。 那我用我的手机号码注册，密码怎么办？ 密码可以设置为两个小写的a，后面加上你的生日日期，比如一二三四五六。 好的，那我试试看。 好的，如果遇到任何问题，可以随时联系我们的客服，祝你购物愉快。",
+    "label": 1,
+    "query_times": 307,
+    "changes": [
+      {
+        "position": 77,
+        "original": "P",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00266873836517334
+      },
+      {
+        "position": 76,
+        "original": "P",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.016270101070404053
+      },
+      {
+        "position": 80,
+        "original": "册",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.008451879024505615
+      },
+      {
+        "position": 75,
+        "original": "A",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0031952261924743652
+      },
+      {
+        "position": 79,
+        "original": "注",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002922952175140381
+      },
+      {
+        "position": 117,
+        "original": "简",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.09793847799301147
+      },
+      {
+        "position": 123,
+        "original": "直",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.12665390968322754
+      },
+      {
+        "position": 116,
+        "original": "常",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 8,
+    "text_length": 285
+  },
+  {
+    "original_text": "喂，你好，我是中行的客服专员，你最近在我们平台购买的商品出现了问题，需要给你办理退款。 真的吗？那挺麻烦的。 是的，不过你放心，我们会尽快处理。为了安全起见，你需要先下载我们的官方APP，通过APP来确认你的身份信息。 好的，我这就去下载。 太好了，下载后请登录并点击首页的‘客服中心’，输入验证码123456，我们会立即为你处理。 明白了，我马上操作。 好的，操作过程中如果遇到任何问题，可以随时联系我。对了，为了方便后续沟通，你可以加我的微信，我的微信号是zhangsan123。 好的，我加一下。 非常感谢，我会尽快通过你的申请。处理完退款后，我们还会给你一笔小额补偿，作为这次不便的歉意。 那真是太感谢了。",
+    "adversarial_text": "喂，你好，我是中行的客服专员，你最近在我们平台购买的商品出现了问题，需要给你办理退款。 真的吗？那挺麻烦的。 是的，不过你放心，我们会尽快处理。为了安全起见，你需要先下载我们的官方AXX，通过APP来确认你的身份信息。 好的，我这就去下载。 太好了，下载后请登录并点击首页的‘客服中心’，输入验证码123456，我们会立即为你处理。 明白了，我马上操作。 好的，操作过程中如果遇到任何问题，可以随时联系我。对了，为了方便后续沟通，你可以加我的微信，我的微信号是zhangsan123。 好的，我加一下。 非常感谢，我会尽快通过你的申请。处理完退款后，我们还会给你一笔小额补偿，作为这次不便的歉意。 那真是太感谢了。",
+    "label": 1,
+    "query_times": 311,
+    "changes": [
+      {
+        "position": 91,
+        "original": "P",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.006792008876800537
+      },
+      {
+        "position": 92,
+        "original": "P",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 2,
+    "text_length": 307
+  },
+  {
+    "original_text": "你好喂，我是农业银行的客户经理，李明。我们查到您的信用记录非常好，想邀请您参加我们的优质客户特别活动。 有什么特别的活动吗？ 是这样的，我们有一个特别的理财计划，收益非常高，而且风险很低。我可以给您发送一个链接，您点击后就可以看到详细信息。 怎么发送给我？ 我可以通过短信给您发送一个链接，您点击后就可以看到详细介绍。 好的，我等一下短信。 好的，我会马上给您发送。请您收到后尽快点击链接查看，这个活动名额有限。 我知道了，谢谢。 不客气，如果有什么疑问可以随时联系我。我的电话是13800138000。 好的，我会注意接听。",
+    "adversarial_text": "你好喂，我是农业银行的客户经理，李明。我们查到您的信用记录非常好，想邀请您参加我们的优质客户特别活动。 有什么特别的活动吗？ 是这样的，我们有一个特别的YYYY，YYYXY，而且风险很低。我可以给您发送一个链接，您点击后就X以看到详XX息。 怎么发送给我？ 我可以通过短信给您发送一个链接，您点击后就可以看到详细介绍。 好的，我等一下短信。 好的，我会马上给您发送。请您收到后尽快点击链接查看，这个活动名额有限。 我知道了，谢谢。 不客气，如果有什么疑问可以随时联系我。我的电话是13800138000。 好的，我会注意接听。",
+    "label": 1,
+    "query_times": 297,
+    "changes": [
+      {
+        "position": 84,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0009719133377075195
+      },
+      {
+        "position": 82,
+        "original": "益",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002546072006225586
+      },
+      {
+        "position": 77,
+        "original": "财",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0051607489585876465
+      },
+      {
+        "position": 81,
+        "original": "收",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.003933548927307129
+      },
+      {
+        "position": 83,
+        "original": "非",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.003344893455505371
+      },
+      {
+        "position": 117,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.031244933605194092
+      },
+      {
+        "position": 85,
+        "original": "高",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.03768497705459595
+      },
+      {
+        "position": 111,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.2686004638671875
+      },
+      {
+        "position": 79,
+        "original": "划",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.008683860301971436
+      },
+      {
+        "position": 78,
+        "original": "计",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0061307549476623535
+      },
+      {
+        "position": 76,
+        "original": "理",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.012454032897949219
+      },
+      {
+        "position": 116,
+        "original": "细",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 12,
+    "text_length": 263
+  },
+  {
+    "original_text": "喂，你好，这里是深圳银行的客服，我是客服经理小张。 你好，有什么事吗？ 是这样的，我们注意到你最近可能有资金周转的需求，我们有一款特别优惠的信用贷款，利息低至两厘，额度最高可达三十万元。 哦，真的吗？我最近确实有点需要。 是的，我们这款贷款非常适合你。只要你提供一些基本信息，我们就可以为你快速审批。 那需要提供哪些信息呢？ 只需要你的身份证号码和电话号码，还有银行流水记录。你可以先告诉我你的电话号码，我这边做个记录。 好的，我的电话号码是13812345678。 好的，已经记录了。为了加快审批速度，你可以点击这个链接填写相关信息，链接会发送到你的手机上。 好的，我等下就填。还有其他需要注意的吗？ 没有了，填完信息后，我们会尽快审核，如果有问题会联系你的。审核通过后，我们会指导你完成后续的步骤。",
+    "adversarial_text": "喂，你好，这里是深圳银行的客服，我是客服经理小张。 你好，有什么事吗？ 是这样的，我们注意到你最近可能有Y金周转的需求，我们有一X特别Y惠的信用Y款，利息低至两厘，额度最高可达三十万元。 哦，真的吗？我最近确X有点需要。 是的，我们这XXX非XXX你。只要你提供一些基本信息，我们就可以为你快速审批。 那需要提供哪些信息呢？ 只需要你的身份证号码和电话号码，还有银行流水记录。你可以先告诉我你的电话号码，我这边做个记录。 好的，我的电话号码是13812345678。 好的，已经记录了。为了加快审批速度，你可以点击这个链接填写相关信息，链接会发送到你的手机上。 好的，我等下就填。还有其他需要注意的吗？ 没有了，填完信息后，我们会尽快审核，如果有问题会联系你的。审核通过后，我们会指导你完成后续的步骤。",
+    "label": 1,
+    "query_times": 887,
+    "changes": [
+      {
+        "position": 121,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003172457218170166
+      },
+      {
+        "position": 123,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007830798625946045
+      },
+      {
+        "position": 122,
+        "original": "适",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.009875774383544922
+      },
+      {
+        "position": 119,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007568240165710449
+      },
+      {
+        "position": 117,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007288634777069092
+      },
+      {
+        "position": 118,
+        "original": "贷",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.01190340518951416
+      },
+      {
+        "position": 104,
+        "original": "实",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004944562911987305
+      },
+      {
+        "position": 64,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010474324226379395
+      },
+      {
+        "position": 67,
+        "original": "优",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.004278361797332764
+      },
+      {
+        "position": 52,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.016386568546295166
+      },
+      {
+        "position": 72,
+        "original": "贷",
+        "replacement": "Y",
+        "success": true
+      }
+    ],
+    "change_count": 11,
+    "text_length": 351
+  },
+  {
+    "original_text": "喂，你好，请问是张先生吗？ 是的，请问你是？ 我是速递物流的客服专员，关于您最近的一笔快递订单，我们发现可能出现了问题，需要您配合处理一下。 哦，真的吗？有什么问题？ 您的包裹在运输过程中不慎丢失，为了补偿您的损失，我们需要您配合完成一个理赔流程。 那我需要怎么做呢？ 您只需要点击我们发送给您的链接，按照指示填写相关信息，就可以完成理赔申请。 好的，那我现在就等着你们的链接。 好的，为了确保您的信息安全，我们会通过短信发送一个安全链接给您，请注意查收。 行，我等会儿就查收短信。谢谢。 不用谢，这是我们应该做的。如果有任何问题，您可以随时联系我们。",
+    "adversarial_text": "喂，你好，请问是张先生吗？ 是的，请问你是？ 我是速递物流的客服专员，关于您最近的一YX递订单，我们发现可能出现了问题，需要您配合处理一下。 哦，真的吗？有什么问题？ 您的包裹在运输过程中不慎丢失，为了补偿X的损失，我们X要X配XX成一个理X流程。 那我需要怎么做呢？ 您只需要点击我们发送给您的链接，按照指示填写相关信息，就可以完成理赔申请。 好的，那我现在就等着你们的链接。 好的，为了确保您的信息安全，我们会通过短信发送一个安全链接给您，请注意查收。 行，我等会儿就查收短信。谢谢。 不用谢，这是我们应该做的。如果有任何问题，您可以随时联系我们。",
+    "label": 1,
+    "query_times": 655,
+    "changes": [
+      {
+        "position": 120,
+        "original": "赔",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.03304743766784668
+      },
+      {
+        "position": 114,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.023664653301239014
+      },
+      {
+        "position": 115,
+        "original": "完",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.016764163970947266
+      },
+      {
+        "position": 112,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.040206968784332275
+      },
+      {
+        "position": 103,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.02613973617553711
+      },
+      {
+        "position": 110,
+        "original": "需",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.05734795331954956
+      },
+      {
+        "position": 42,
+        "original": "笔",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.004147589206695557
+      },
+      {
+        "position": 43,
+        "original": "快",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 8,
+    "text_length": 276
+  },
+  {
+    "original_text": "喂，你好，这边是速贷通信贷中心，我是客服经理李华。 你好，有什么事吗？ 我们注意到你有良好的信用记录，特此为你提供一笔低息贷款，月息只要两厘，不需要抵押，你近期有资金需求吗？ 啊，这个贷款听起来挺不错的，怎么申请呢？ 非常简单，你只需要下载我们的APP，注册后填写个人信息，我们就会审核你的资料，很快就能放款。 下载APP？这是正规的吗？ 当然正规，我们的APP是经过认证的，你可以在应用商店直接搜索下载。 那我需要提供什么资料呢？ 你只需要提供身份证、银行卡信息，以及一些基本的个人资料。审核通过后，我们会在24小时内放款。 好的，我试试看。 太好了，如果你有任何问题，可以随时联系我，我的电话是12345678901。祝你申请顺利，再见！",
+    "adversarial_text": "喂，你好，这边是速贷通信贷中心，我是客服经理李华。 你好，有什么事吗？ 我们注意到你有良好的信用记录，特此为你提供一Y低XX款，月息只要两厘，不需要抵押，你近期有资金需求吗？ 啊，这个贷X听XX挺不错的，怎么申请呢？ 非XX单X你XX要下载我X的XXX，注册后填写个人信息，我们就会审核你的资料，很快就能放款。 下载APP？这是正规的吗？ 当然正规，我们的APP是经过认证的，你可以在应用商店直接搜索下载。 那我需要提供什么资料呢？ 你只需要提供身份证、银行卡信息，以及一些基本的个人资料。审核通过后，我们会在24小时内放款。 好的，我试试看。 太好了，如果你有任何问题，可以随时联系我，我的电话是12345678901。祝你申请顺利，再见！",
+    "label": 1,
+    "query_times": 820,
+    "changes": [
+      {
+        "position": 123,
+        "original": "A",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0028000473976135254
+      },
+      {
+        "position": 124,
+        "original": "P",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005568265914916992
+      },
+      {
+        "position": 121,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004949450492858887
+      },
+      {
+        "position": 125,
+        "original": "P",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.017747223377227783
+      },
+      {
+        "position": 115,
+        "original": "只",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007116854190826416
+      },
+      {
+        "position": 116,
+        "original": "需",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00872957706451416
+      },
+      {
+        "position": 110,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.011305510997772217
+      },
+      {
+        "position": 111,
+        "original": "简",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.019057869911193848
+      },
+      {
+        "position": 113,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.03465491533279419
+      },
+      {
+        "position": 95,
+        "original": "起",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.009016752243041992
+      },
+      {
+        "position": 96,
+        "original": "来",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00854647159576416
+      },
+      {
+        "position": 93,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.014603912830352783
+      },
+      {
+        "position": 61,
+        "original": "贷",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005317986011505127
+      },
+      {
+        "position": 58,
+        "original": "笔",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.08258002996444702
+      },
+      {
+        "position": 60,
+        "original": "息",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 15,
+    "text_length": 321
+  },
+  {
+    "original_text": "你好，是王先生吗？ 是的，你好，你是谁？ 我是工商银行的贷款专员小张，我们最近有一款低息贷款产品，想了解一下你是否有兴趣？ 哦，我现在资金挺充裕的，暂时不需要贷款。 那真是太好了，不过如果你以后有需要的时候，可以随时联系我。对了，我们还有一个特别的理财项目，收益非常可观，你有兴趣了解一下吗？ 理财项目？听起来不错，可以详细说说吗？ 当然可以。我们这款理财产品的年化收益率高达百分之十，而且风险非常低。你可以先投资一小部分试试看，体验一下我们的服务。 这么高的收益？那我怎么参与呢？ 太好了，你只需要下载我们的官方APP，注册并绑定银行卡，就可以开始投资了。我这里有一个专属链接，你点击后可以享受新用户优惠。 好的，那我怎么下载这个APP？ 你只要点击这个链接，就会自动跳转到下载页面。下载完成后，记得用我的推荐码注册哦，这样可以享受更多的优惠。 好的，我试试看。谢谢你，小张。 不客气，如果有任何问题随时联系我。祝你投资顺利！",
+    "adversarial_text": "你好，是王先生吗？ 是的，你好，你是谁？ 我是工商银行的贷款专员小张，我们最近有一X低息X款产品，想了解一下你是否有兴趣？ 哦，我现在资金挺充裕的，暂时不需要贷X。 那真是X好了X不XX果你以X有需要的时候，可以随时联系我。对了，我X还有一个特别的XX项目，收益非常可观，你有兴趣了解一下吗？ 理财项目？听起来不错，可以详细说说吗？ 当然可以。我们这款理财产品的年化收益率高达百分之十，而且风险非常低。你可以先投资一小部分试试看，体验一下我们的服务。 这么高的收益？那我怎么参与呢？ 太好了，你只需要下载我们的官方APP，注册并绑定银行卡，就可以开始投资了。我这里有一个专属链接，你点击后可以享受新用户优惠。 好的，那我怎么下载这个APP？ 你只要点击这个链接，就会自动跳转到下载页面。下载完成后，记得用我的推荐码注册哦，这样可以享受更多的优惠。 好的，我试试看。谢谢你，小张。 不客气，如果有任何问题随时联系我。祝你投资顺利！",
+    "label": 1,
+    "query_times": 445,
+    "changes": [
+      {
+        "position": 124,
+        "original": "理",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.012582778930664062
+      },
+      {
+        "position": 125,
+        "original": "财",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.021560609340667725
+      },
+      {
+        "position": 116,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.011334657669067383
+      },
+      {
+        "position": 91,
+        "original": "过",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002003490924835205
+      },
+      {
+        "position": 92,
+        "original": "如",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0027679800987243652
+      },
+      {
+        "position": 89,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004551231861114502
+      },
+      {
+        "position": 86,
+        "original": "太",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007973909378051758
+      },
+      {
+        "position": 96,
+        "original": "后",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.08517616987228394
+      },
+      {
+        "position": 80,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.24928098917007446
+      },
+      {
+        "position": 41,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.025115668773651123
+      },
+      {
+        "position": 44,
+        "original": "贷",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 11,
+    "text_length": 414
+  },
+  {
+    "original_text": "喂，你好，这里是支付宝客服中心。 你好，你是哪位？ 我是小李，客服专员。我们注意到您的账户近期有异常活动，为了保障您的资金安全，需要您配合我们完成一次身份验证。 真的吗？那我需要怎么做？ 您只需要点击我们发给您的链接，填写一些基本信息，我们就可以确认您的身份了。 好，我等一下看看邮箱。 好的，我们会立即发送。另外，为了感谢您的配合，我们还为您准备了一份小礼物，点击链接后可以领取。 那太好了，谢谢。 不客气，您有任何问题都可以联系我们。再次感谢您的配合，祝您生活愉快！ 好的，谢谢。再见。",
+    "adversarial_text": "喂，你好，这里是支Y宝客服YY。 你好，你是YYY 我是YY，客服YYY我们YY到Y的YYYY有XY活动，Y了YYX的YYYY，Y要YYY我们YY一X身X验YY Y的吗Y那我Y要YYYY XXX要点Y我XXXX的链接，填写一X基XX息，我X就XXX认您的身份了。 好，我等一下看看邮箱。 好的，我们会立即发送。另外，为了感谢您的配合，我们还为您准备了一份小礼物，点击链接后可以领取。 那太好了，谢谢。 不客气，您有任何问题都可以联系我们。再次感谢您的配合，祝您生活愉快！ 好的，谢谢。再见。",
+    "label": 1,
+    "query_times": 783,
+    "changes": [
+      {
+        "position": 123,
+        "original": "确",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002844393253326416
+      },
+      {
+        "position": 119,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0015682578086853027
+      },
+      {
+        "position": 122,
+        "original": "以",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.001087963581085205
+      },
+      {
+        "position": 121,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004612624645233154
+      },
+      {
+        "position": 115,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0019710659980773926
+      },
+      {
+        "position": 104,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0006363987922668457
+      },
+      {
+        "position": 102,
+        "original": "发",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0004608631134033203
+      },
+      {
+        "position": 103,
+        "original": "给",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.000525355339050293
+      },
+      {
+        "position": 101,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007290840148925781
+      },
+      {
+        "position": 114,
+        "original": "本",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004666566848754883
+      },
+      {
+        "position": 95,
+        "original": "只",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0012790560722351074
+      },
+      {
+        "position": 96,
+        "original": "需",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0016908049583435059
+      },
+      {
+        "position": 94,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0041762590408325195
+      },
+      {
+        "position": 57,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0002905726432800293
+      },
+      {
+        "position": 59,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.000853121280670166
+      },
+      {
+        "position": 48,
+        "original": "异",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010947585105895996
+      },
+      {
+        "position": 76,
+        "original": "份",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0034494996070861816
+      },
+      {
+        "position": 41,
+        "original": "您",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002973496913909912
+      },
+      {
+        "position": 43,
+        "original": "账",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0015462040901184082
+      },
+      {
+        "position": 44,
+        "original": "户",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009077787399291992
+      },
+      {
+        "position": 49,
+        "original": "常",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0030350089073181152
+      },
+      {
+        "position": 74,
+        "original": "次",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.26163172721862793
+      },
+      {
+        "position": 45,
+        "original": "近",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0031458139419555664
+      },
+      {
+        "position": 46,
+        "original": "期",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0032969117164611816
+      },
+      {
+        "position": 53,
+        "original": "为",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.007504701614379883
+      },
+      {
+        "position": 55,
+        "original": "保",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.012518703937530518
+      },
+      {
+        "position": 56,
+        "original": "障",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.004997849464416504
+      },
+      {
+        "position": 60,
+        "original": "金",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.004233002662658691
+      },
+      {
+        "position": 62,
+        "original": "全",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.01084280014038086
+      },
+      {
+        "position": 78,
+        "original": "证",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002781808376312256
+      },
+      {
+        "position": 9,
+        "original": "付",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.960464477539063e-08
+      },
+      {
+        "position": 13,
+        "original": "中",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.960464477539063e-08
+      },
+      {
+        "position": 14,
+        "original": "心",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.960464477539063e-08
+      },
+      {
+        "position": 22,
+        "original": "哪",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.2516975402832031e-06
+      },
+      {
+        "position": 23,
+        "original": "位",
+        "replacement": "Y",
+        "success": false,
+        "gap": 9.5367431640625e-07
+      },
+      {
+        "position": 24,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 9.5367431640625e-07
+      },
+      {
+        "position": 28,
+        "original": "小",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.7881393432617188e-06
+      },
+      {
+        "position": 29,
+        "original": "李",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.1920928955078125e-06
+      },
+      {
+        "position": 35,
+        "original": "。",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.0967254638671875e-05
+      },
+      {
+        "position": 38,
+        "original": "注",
+        "replacement": "Y",
+        "success": false,
+        "gap": 4.756450653076172e-05
+      },
+      {
+        "position": 39,
+        "original": "意",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.3530254364013672e-05
+      },
+      {
+        "position": 66,
+        "original": "您",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.005388140678405762
+      },
+      {
+        "position": 68,
+        "original": "合",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0005220770835876465
+      },
+      {
+        "position": 71,
+        "original": "完",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00010383129119873047
+      },
+      {
+        "position": 33,
+        "original": "专",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.960464477539062e-07
+      },
+      {
+        "position": 34,
+        "original": "员",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.364418029785156e-07
+      },
+      {
+        "position": 61,
+        "original": "安",
+        "replacement": "Y",
+        "success": false,
+        "gap": 6.4373016357421875e-06
+      },
+      {
+        "position": 64,
+        "original": "需",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0005338191986083984
+      },
+      {
+        "position": 67,
+        "original": "配",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00031626224517822266
+      },
+      {
+        "position": 72,
+        "original": "成",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0004940629005432129
+      },
+      {
+        "position": 81,
+        "original": "真",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002283751964569092
+      },
+      {
+        "position": 87,
+        "original": "需",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.009053945541381836
+      },
+      {
+        "position": 79,
+        "original": "。",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00020200014114379883
+      },
+      {
+        "position": 84,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002130270004272461
+      },
+      {
+        "position": 92,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0036118030548095703
+      },
+      {
+        "position": 90,
+        "original": "么",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.005408883094787598
+      },
+      {
+        "position": 91,
+        "original": "做",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.005355536937713623
+      },
+      {
+        "position": 89,
+        "original": "怎",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0016592144966125488
+      },
+      {
+        "position": 99,
+        "original": "击",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.005446910858154297
+      },
+      {
+        "position": 112,
+        "original": "些",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 60,
+    "text_length": 245
+  },
+  {
+    "original_text": "喂，你好，我是工商银行的客户经理，李华。 你好，有什么事吗？ 是这样的，我们最近有一个特别好的理财项目，年化收益可以达到百分之十，我觉得非常适合你。 真的吗？听起来不错，但我对这种投资有些担心。 完全可以理解，但是我们这个项目非常安全，而且已经有上百人参与了，收益都非常好。 那我怎么参与呢？ 太好了，你只需要点击我发给你的链接，注册一个账号，然后就可以开始投资了。 好的，我试试看。 太好了，你是最棒的！如果有任何问题，随时联系我。 谢谢，我会注意的。",
+    "adversarial_text": "喂，你好，我是工商银行的客户经理，李华。 你好，有什么事吗？ 是这样的，我们最近有一个特别好的理财项目，年化收益可以达到百分之十，我觉Y非Y适合你。 真的吗？听起来不错，但我对这种投资有些担心。 完全可以理解，但是我们这个项目非X安全XX且已经有上百人参与了，收益都非常好。 那我怎么参与呢？ 太好了，你只需要点击我发给你的链接，注册一个账号，然后就可以开始投资了。 好的，我试试看。 太好了，你是最棒的！如果有任何问题，随时联系我。 谢谢，我会注意的。",
+    "label": 1,
+    "query_times": 240,
+    "changes": [
+      {
+        "position": 67,
+        "original": "得",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.007840752601623535
+      },
+      {
+        "position": 118,
+        "original": "而",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.014908373355865479
+      },
+      {
+        "position": 69,
+        "original": "常",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.06747627258300781
+      },
+      {
+        "position": 117,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.14954131841659546
+      },
+      {
+        "position": 114,
+        "original": "常",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 5,
+    "text_length": 227
+  },
+  {
+    "original_text": "喂，你好，我是深圳银行的客户经理，小李，你最近有没有资金周转的需求？我们有特别优惠的贷款产品，利息低至两厘，要不要了解一下？ 你好，暂时没有这个需求。 好的，不过我还是想给你介绍一下，万一将来有需要的时候可以考虑。你只需要提供一些基本信息，我们就能为你量身定制一个贷款方案。 那你说说看，具体需要提供哪些信息？ 你需要提供身份证号、手机号和银行流水，这些信息可以帮助我们更好地评估你的信用。 行吧，那我怎么申请呢？ 非常简单，你只需要点击这个链接，填写相关信息，我们的工作人员会尽快联系你。 好的，我试试看。 太好了，你点击链接后，记得保存好验证码，等会儿我们的工作人员会联系你，到时候你把验证码告诉他们就可以完成申请了。 好的，谢谢你。",
+    "adversarial_text": "喂，你好，我是深圳银行的客户经理，小李，你最近有没有资金周转的需求？我们有特别优惠的贷款产品，利息低至两厘，要不要了解一下？ 你好，暂时没有这个需求。 好的，不过我还是想给你介绍一下，万一将来有需要的时候可以考虑。你只Y要Y供一XX本信息，我们就能为你量身定制一个贷款方案。 那你说说看，具体需要提供哪些信息？ 你需要提供身份证号、手机号和银行流水，这些信息可以帮助我们更好地评估你的信用。 行吧，那我怎么申请呢？ 非常简单，你只需要点击这个链接，填写相关信息，我们的工作人员会尽快联系你。 好的，我试试看。 太好了，你点击链接后，记得保存好验证码，等会儿我们的工作人员会联系你，到时候你把验证码告诉他们就可以完成申请了。 好的，谢谢你。",
+    "label": 1,
+    "query_times": 329,
+    "changes": [
+      {
+        "position": 114,
+        "original": "些",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.03507298231124878
+      },
+      {
+        "position": 109,
+        "original": "需",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.13162875175476074
+      },
+      {
+        "position": 111,
+        "original": "提",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.13202118873596191
+      },
+      {
+        "position": 115,
+        "original": "基",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 4,
+    "text_length": 319
+  },
+  {
+    "original_text": "喂，你好，我是银行的客户经理，李经理。我们这边有一个特别优惠的贷款项目，利率很低，审批也很快。你有没有兴趣了解一下？ 你好，我最近确实有点资金周转的需要，你能详细说说吗？ 当然可以。这个贷款项目是专门为小微企业和个体户设计的，无抵押、无担保，最高可以贷一百万。而且我们有一个专门的APP，你可以下载后在线申请，非常方便。 听起来不错，这个APP叫什么名字？怎么下载？ 这个APP叫‘财富速贷’，你可以直接在手机应用商店搜索下载。下载后注册并填写相关信息，我们的客服会尽快联系你。 好的，我会试试看。还有，这个贷款的利率是多少？ 年利率最低可以做到百分之四点五，具体还要看你的情况。如果你有其他银行的贷款记录，也可以享受更低的利率。 明白了。我还有一个问题，这个贷款的审批时间大概需要多久？ 通常情况下，审批只需要一到两个工作日。如果你资料齐全，最快当天就可以放款。 那太好了，我这就去下载APP。谢谢你。",
+    "adversarial_text": "喂，你好，我是银行的客户经理，李经X。我们这边有一YYYY惠的YYYY，YY很Y，YY也很YY你有未有XY了Y一下Y 你好，我YYYY有点YY周Y的Y要，你Y详Y说说吗Y YYYYY这YYYYY是Y门YY微企业和Y体Y设Y的，无Y押、无Y保，最高可以贷一百万。而且我们有一个专门的APP，你可以下载后在线申请，非常方便。 听起来不错，这个APP叫什么名字？怎么下载？ 这个APP叫‘财富速贷’，你可以直接在手机应用商店搜索下载。下载后注册并填写相关信息，我们的客服会尽快联系你。 好的，我会试试看。还有，这个贷款的利率是多少？ 年利率最低可以做到百分之四点五，具体还要看你的情况。如果你有其他银行的贷款记录，也可以享受更低的利率。 明白了。我还有一个问题，这个贷款的审批时间大概需要多久？ 通常情况下，审批只需要一到两个工作日。如果你资料齐全，最快当天就可以放款。 那太好了，我这就去下载APP。谢谢你。",
+    "label": 1,
+    "query_times": 638,
+    "changes": [
+      {
+        "position": 51,
+        "original": "兴",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0003516077995300293
+      },
+      {
+        "position": 54,
+        "original": "解",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0425838828086853
+      },
+      {
+        "position": 37,
+        "original": "率",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.031839072704315186
+      },
+      {
+        "position": 45,
+        "original": "快",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.006907403469085693
+      },
+      {
+        "position": 34,
+        "original": "目",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0018325448036193848
+      },
+      {
+        "position": 31,
+        "original": "贷",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.000997304916381836
+      },
+      {
+        "position": 32,
+        "original": "款",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0002738833427429199
+      },
+      {
+        "position": 39,
+        "original": "低",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0004406571388244629
+      },
+      {
+        "position": 36,
+        "original": "利",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0002886652946472168
+      },
+      {
+        "position": 52,
+        "original": "趣",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.001830756664276123
+      },
+      {
+        "position": 28,
+        "original": "优",
+        "replacement": "Y",
+        "success": false,
+        "gap": 9.435415267944336e-05
+      },
+      {
+        "position": 41,
+        "original": "审",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0005311965942382812
+      },
+      {
+        "position": 49,
+        "original": "没",
+        "replacement": "未",
+        "success": false,
+        "gap": 0.00017124414443969727
+      },
+      {
+        "position": 42,
+        "original": "批",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00039386749267578125
+      },
+      {
+        "position": 114,
+        "original": "抵",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.033709585666656494
+      },
+      {
+        "position": 63,
+        "original": "最",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.020928144454956055
+      },
+      {
+        "position": 118,
+        "original": "担",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.17619943618774414
+      },
+      {
+        "position": 33,
+        "original": "项",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.4901161193847656e-06
+      },
+      {
+        "position": 65,
+        "original": "确",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.01099938154220581
+      },
+      {
+        "position": 26,
+        "original": "特",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.9802322387695312e-06
+      },
+      {
+        "position": 66,
+        "original": "实",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.008282840251922607
+      },
+      {
+        "position": 25,
+        "original": "个",
+        "replacement": "Y",
+        "success": false,
+        "gap": 7.748603820800781e-07
+      },
+      {
+        "position": 94,
+        "original": "款",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.01740896701812744
+      },
+      {
+        "position": 27,
+        "original": "别",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.1920928955078125e-07
+      },
+      {
+        "position": 96,
+        "original": "目",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.012899518013000488
+      },
+      {
+        "position": 98,
+        "original": "专",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0032585859298706055
+      },
+      {
+        "position": 69,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0026667118072509766
+      },
+      {
+        "position": 46,
+        "original": "。",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.5033950805664062e-06
+      },
+      {
+        "position": 88,
+        "original": "可",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0019109249114990234
+      },
+      {
+        "position": 64,
+        "original": "近",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0001404881477355957
+      },
+      {
+        "position": 93,
+        "original": "贷",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.007806241512298584
+      },
+      {
+        "position": 17,
+        "original": "理",
+        "replacement": "X",
+        "success": false,
+        "gap": 5.960464477539063e-08
+      },
+      {
+        "position": 57,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 9.179115295410156e-06
+      },
+      {
+        "position": 86,
+        "original": "当",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009393692016601562
+      },
+      {
+        "position": 70,
+        "original": "金",
+        "replacement": "Y",
+        "success": false,
+        "gap": 8.058547973632812e-05
+      },
+      {
+        "position": 84,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0005078315734863281
+      },
+      {
+        "position": 89,
+        "original": "以",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0001220703125
+      },
+      {
+        "position": 78,
+        "original": "能",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00038939714431762695
+      },
+      {
+        "position": 80,
+        "original": "细",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0010612010955810547
+      },
+      {
+        "position": 74,
+        "original": "需",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00015550851821899414
+      },
+      {
+        "position": 72,
+        "original": "转",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.436471939086914e-05
+      },
+      {
+        "position": 87,
+        "original": "然",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00024569034576416016
+      },
+      {
+        "position": 95,
+        "original": "项",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.000349581241607666
+      },
+      {
+        "position": 90,
+        "original": "。",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0007063746452331543
+      },
+      {
+        "position": 92,
+        "original": "个",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0018422603607177734
+      },
+      {
+        "position": 100,
+        "original": "为",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0046700239181518555
+      },
+      {
+        "position": 101,
+        "original": "小",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.003884553909301758
+      },
+      {
+        "position": 106,
+        "original": "个",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.02966141700744629
+      },
+      {
+        "position": 108,
+        "original": "户",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.030758202075958252
+      },
+      {
+        "position": 110,
+        "original": "计",
+        "replacement": "Y",
+        "success": true
+      }
+    ],
+    "change_count": 50,
+    "text_length": 402
+  },
+  {
+    "original_text": "喂，你好，我是来自深圳银行的客户经理，这边看到你最近有资金周转的需求，我们这里有一笔三十万的备用金，需要了解一下吗？ 哦，不用了，我现在资金周转没有问题。 好的，那你最近有没有考虑过投资理财呢？我们这里有一个风险低收益高的项目，非常适合你这样的投资者。 投资理财感兴趣，可以详细介绍一下吗？ 当然可以，这个项目是我们银行与一家知名金融科技公司合作推出的，年化收益率高达百分之十，非常稳定。你可以先下载我们的投资APP，注册后还有新手礼包。 这个APP叫什么名字？ APP叫做‘财富快线’，你可以在手机应用商店搜索这个名称下载，下载后加我微信，我给你发一个新人优惠码。 好的，我试试看。 太好了，我的微信号是一五二零八零三，添加我时备注一下名字，方便我快速通过。祝你投资顺利！ 谢谢，我会联系你的。",
+    "adversarial_text": "喂，你好，我是来自深圳银行的客户经理，这边看到你最近有资金周转的需求，我们这里有一YYYX的Y用Y，Y要了Y一下吗？ 哦，不用了，我现在资金周转没有问题。 好的，那你最近有没有考虑过投资理财呢？我X这里有一个风险低XXX的项目X非XXX你这X的投资者。 投资理财感兴趣，可以详细介绍一下吗？ 当然可以，这个项目是我们银行与一家知名金融科技公司合作推出的，年化收益率高达百分之十，非常稳定。你可以先下载我们的投资APP，注册后还有新手礼包。 这个APP叫什么名字？ APP叫做‘财富快线’，你可以在手机应用商店搜索这个名称下载，下载后加我微信，我给你发一个新人优惠码。 好的，我试试看。 太好了，我的微信号是一五二零八零三，添加我时备注一下名字，方便我快速通过。祝你投资顺利！ 谢谢，我会联系你的。",
+    "label": 1,
+    "query_times": 949,
+    "changes": [
+      {
+        "position": 117,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0029758214950561523
+      },
+      {
+        "position": 120,
+        "original": "样",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0031395554542541504
+      },
+      {
+        "position": 116,
+        "original": "适",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0033193230628967285
+      },
+      {
+        "position": 44,
+        "original": "万",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004129588603973389
+      },
+      {
+        "position": 41,
+        "original": "笔",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0003336668014526367
+      },
+      {
+        "position": 43,
+        "original": "十",
+        "replacement": "Y",
+        "success": false,
+        "gap": 3.528594970703125e-05
+      },
+      {
+        "position": 115,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.014307498931884766
+      },
+      {
+        "position": 53,
+        "original": "解",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0001685619354248047
+      },
+      {
+        "position": 109,
+        "original": "高",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0515589714050293
+      },
+      {
+        "position": 48,
+        "original": "金",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0001361370086669922
+      },
+      {
+        "position": 113,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.06861811876296997
+      },
+      {
+        "position": 108,
+        "original": "益",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.22952061891555786
+      },
+      {
+        "position": 50,
+        "original": "需",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009077191352844238
+      },
+      {
+        "position": 46,
+        "original": "备",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00013691186904907227
+      },
+      {
+        "position": 98,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.06310069561004639
+      },
+      {
+        "position": 42,
+        "original": "三",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.179643630981445e-05
+      },
+      {
+        "position": 107,
+        "original": "收",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 17,
+    "text_length": 348
+  },
+  {
+    "original_text": "您好，这里是工商银行的客服，我是小张经理。 你好，有什么事情吗？ 我们注意到您的信用记录非常好，想邀请您参加我们的低息贷款活动，利息只有两厘五，非常优惠。 哦，真的吗？我最近确实需要一笔钱。 是的，这个活动非常适合您。不过为了确保您的信息准确无误，我们需要您提供一些个人信息，比如身份证号和银行账号。 好的，那我怎么提供这些信息呢？ 您可以点击我们发送的链接，填写相关信息，我们会尽快审核。 链接？那安全吗？ 绝对安全，这是我们官方的链接，您可以放心操作。 好的，我试试看。 太好了，如果您有任何问题，可以随时联系我们。祝您一切顺利！",
+    "adversarial_text": "您好，这里是工商银行的客服，我是小张经理。 你好，有什么事情吗？ 我们注意到Y的Y用记YYY好，想邀请YYY我们的YYYY活动，利息Y有两厘五，非常优惠。 哦，真的吗？我最近确实需要一笔钱。 是的，这个活动非XXXX。不X为了X保X的信息准确XXX我们需要您提供一些个人信息，比如身份证号和银行账号。 好的，那我怎么提供这些信息呢？ 您可以点击我们发送的链接，填写相关信息，我们会尽快审核。 链接？那安全吗？ 绝对安全，这是我们官方的链接，您可以放心操作。 好的，我试试看。 太好了，如果您有任何问题，可以随时联系我们。祝您一切顺利！",
+    "label": 1,
+    "query_times": 334,
+    "changes": [
+      {
+        "position": 123,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0019353628158569336
+      },
+      {
+        "position": 122,
+        "original": "误",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010513663291931152
+      },
+      {
+        "position": 115,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0008350610733032227
+      },
+      {
+        "position": 121,
+        "original": "无",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002135157585144043
+      },
+      {
+        "position": 113,
+        "original": "确",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010772347450256348
+      },
+      {
+        "position": 51,
+        "original": "您",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0005597472190856934
+      },
+      {
+        "position": 110,
+        "original": "过",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0009518861770629883
+      },
+      {
+        "position": 59,
+        "original": "贷",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0015121698379516602
+      },
+      {
+        "position": 52,
+        "original": "参",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00054168701171875
+      },
+      {
+        "position": 107,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00661855936050415
+      },
+      {
+        "position": 45,
+        "original": "常",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0023092031478881836
+      },
+      {
+        "position": 43,
+        "original": "录",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0010814070701599121
+      },
+      {
+        "position": 38,
+        "original": "您",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0006220340728759766
+      },
+      {
+        "position": 58,
+        "original": "息",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.007277309894561768
+      },
+      {
+        "position": 106,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.13651704788208008
+      },
+      {
+        "position": 57,
+        "original": "低",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.014570772647857666
+      },
+      {
+        "position": 44,
+        "original": "非",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009286403656005859
+      },
+      {
+        "position": 66,
+        "original": "只",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.10460132360458374
+      },
+      {
+        "position": 40,
+        "original": "信",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0002713203430175781
+      },
+      {
+        "position": 60,
+        "original": "款",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.01092451810836792
+      },
+      {
+        "position": 53,
+        "original": "加",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0010684728622436523
+      },
+      {
+        "position": 105,
+        "original": "适",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.1470213532447815
+      },
+      {
+        "position": 104,
+        "original": "常",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 23,
+    "text_length": 267
+  },
+  {
+    "original_text": "喂，你好，我是华商银行的张经理，最近有资金周转的需求吗？ 哦，暂时没有，谢谢。 好的，那不知道你对企业贷款的利率和政策了解吗？我们这边有非常优惠的条件。 我对这个不太了解，不过听起来不错。 是这样的，我们有一个专门的企业服务APP，上面可以详细查看贷款政策和申请流程，你要不要下载看看？ 那我怎么下载这个APP呢？ 非常简单，你只要点击我发给你的链接，就可以直接下载了。 好的，我试试看。 太好了，下载后有任何问题都可以随时联系我，我的电话是一三四五六七八九，有什么不明白的地方也可以加我的微信，微信和电话号码是一样的。 谢谢你的帮助，我会考虑的。",
+    "adversarial_text": "喂，你好，我是华商银行的张经理，最近有资金周转的需求吗？ 哦，暂时没有，谢谢。 好的，那不知道你对企业贷款的利率和政策了X吗？我们这边有非常优惠的条件。 我对这个不太了解，不过听起来不错。 是这样的，我们有一个专门的企业服务APP，上面可以详细查看贷款政策和申请流程，你要不要下载看看？ 那我怎么下载这个APP呢？ 非常简单，你只要点击我发给你的链接，就可以直接下载了。 好的，我试试看。 太好了，下载后有任何问题都可以随时联系我，我的电话是一三四五六七八九，有什么不明白的地方也可以加我的微信，微信和电话号码是一样的。 谢谢你的帮助，我会考虑的。",
+    "label": 1,
+    "query_times": 275,
+    "changes": [
+      {
+        "position": 60,
+        "original": "解",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 1,
+    "text_length": 274
+  },
+  {
+    "original_text": "喂，你好，是李明吗？ 你好，我是，你是哪位？ 我是小张，现在在一家投资咨询公司工作，最近我们推出了一款高收益的投资项目，想了解一下你是否有兴趣？ 哦，这种投资我不太了解，你们的项目可靠吗？ 非常可靠，我们公司的项目都是经过严格筛选的，而且我们的客户反馈也非常好。你可以加我的微信，我给你详细介绍，你看怎么样？ 微信我就先不加了，你直接在这里跟我说说看吧。 好的，那我简单介绍一下，我们的项目年化收益率可以达到百分之二十以上，而且风险非常低。你只需要在我们的APP上注册并投资，就可以开始获取收益了。 这么高的收益？听上去不错，不过我还是有点担心安全问题。 完全不用担心，我们公司的资金管理非常透明，所有的交易都有第三方监管。你要是感兴趣的话，可以先在我这里注册个账号，试一试小额投资，看看效果。 那我试试看吧，你把注册链接发给我吧。 好的，我这就发给你。你注册之后，有任何问题都可以联系我，我会尽快帮你解决的。",
+    "adversarial_text": "喂，你好，是李明吗？ 你好，我是，你是哪位？ 我是小张，现在在一家投资咨询公司工作，最近我们推出了一款X收益的投资项目，想了解一下你是否有兴趣？ 哦，这种投资我不太了XX你们的项目X靠吗X 非XXXX我X公X的项目都是经过严格筛选的，而且我X的客户反馈也非常好。你可以加我的微信，我给你详细介绍，你看怎么样？ 微信我就先不加了，你直接在这里跟我说说看吧。 好的，那我简单介绍一下，我们的项目年化收益率可以达到百分之二十以上，而且风险非常低。你只需要在我们的APP上注册并投资，就可以开始获取收益了。 这么高的收益？听上去不错，不过我还是有点担心安全问题。 完全不用担心，我们公司的资金管理非常透明，所有的交易都有第三方监管。你要是感兴趣的话，可以先在我这里注册个账号，试一试小额投资，看看效果。 那我试试看吧，你把注册链接发给我吧。 好的，我这就发给你。你注册之后，有任何问题都可以联系我，我会尽快帮你解决的。",
+    "label": 1,
+    "query_times": 439,
+    "changes": [
+      {
+        "position": 120,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00740426778793335
+      },
+      {
+        "position": 101,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0015334486961364746
+      },
+      {
+        "position": 99,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0016161799430847168
+      },
+      {
+        "position": 97,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0017938017845153809
+      },
+      {
+        "position": 96,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004020810127258301
+      },
+      {
+        "position": 98,
+        "original": "靠",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0077495574951171875
+      },
+      {
+        "position": 103,
+        "original": "司",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.019142329692840576
+      },
+      {
+        "position": 93,
+        "original": "？",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.04327535629272461
+      },
+      {
+        "position": 51,
+        "original": "高",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.010531604290008545
+      },
+      {
+        "position": 83,
+        "original": "解",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.09928923845291138
+      },
+      {
+        "position": 84,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.21440386772155762
+      },
+      {
+        "position": 90,
+        "original": "可",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 12,
+    "text_length": 405
+  },
+  {
+    "original_text": "喂，你好，是李老板吗？ 嗯，我是李老板，你是谁？ 您好，我是微众银行的贷款专员，我们注意到您的公司最近有资金周转的需求，特地给您来电，了解一下您是否有贷款的意向。 哦，是这样，我现在确实有点资金周转的问题，你能告诉我更多关于贷款的信息吗？ 当然可以，我们这边可以为您提供无抵押、低利息的贷款服务，最高额度可达五十万，审批速度快，最快当天就能到账。 听起来不错，但是我对这些贷款流程不太了解。 没问题，您只需要提供一些基本的公司资料和身份信息，我们这边会帮您完成后续的所有手续。为了确保您的信息安全，您可以先点击我们提供的链接，填写一些基本信息。 好的，那我怎么获取这个链接呢？ 您可以直接扫描我发送给您的二维码，或者我可以通过短信给您发送一个链接，您看哪种方式更方便？ 还是通过短信吧，我收到链接后会尽快填写。 好的，我马上给您发送短信。请您注意查收，并在收到后尽快完成填写。如果您有任何问题，可以随时联系我。 好的，谢谢你的帮助。",
+    "adversarial_text": "喂，你好，是李老板吗？ 嗯，我是李老板，你是谁？ 您好，我是微众银行的贷款专员，我们注意到您的公司最近有资金周转的需求，特地给X来电，了解一下您是否有贷款的意向。 哦，是这样，我现在确实有点资金周转的问题，你能告诉我更多关于贷款的信息吗？ 当然可以，我们这边可以为您提供无抵押、低利息的贷款服务，最高额度可达五十万，审批速度快，最快当天就能到账。 听起来不错，但是我对这些贷款流程不太了解。 没问题，您只需要提供一些基本的公司资料和身份信息，我们这边会帮您完成后续的所有手续。为了确保您的信息安全，您可以先点击我们提供的链接，填写一些基本信息。 好的，那我怎么获取这个链接呢？ 您可以直接扫描我发送给您的二维码，或者我可以通过短信给您发送一个链接，您看哪种方式更方便？ 还是通过短信吧，我收到链接后会尽快填写。 好的，我马上给您发送短信。请您注意查收，并在收到后尽快完成填写。如果您有任何问题，可以随时联系我。 好的，谢谢你的帮助。",
+    "label": 1,
+    "query_times": 417,
+    "changes": [
+      {
+        "position": 63,
+        "original": "您",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 1,
+    "text_length": 416
+  },
+  {
+    "original_text": "喂 喂 嗨，你好，我是华银银行的客户经理小李，我们注意到你最近有贷款的需求，是吗？ 是的，我最近确实需要一些资金周转。 太好了，我们正好有一款无抵押贷款产品，可以快速放款，你只需要提供一些基本信息，我们就能为你评估贷款额度。 听起来不错，需要我做什么？ 首先，你需要下载我们银行的官方APP，然后注册一个账户，填写相关信息。 好的，我这就去下载。 下载完后，你可以直接在APP内提交贷款申请，如果有任何问题，可以随时联系我。 行，我下载完就联系你。谢谢你，小李。",
+    "adversarial_text": "喂 喂 嗨，你好，我是华银银行的客户经理小李，我们注意到你最近有贷款的需求，是吗？ 是的，我最近确实需要一些资金周转。 太好了，我们正好有一款无抵押贷款产品，可以快速放款，你只需要提供一些基本信息，我X就X为你XXXXXX。 听XX不错XX要我X什XX 首先，你需要下载我们银行的官方APP，然后注册一个账户，填写相关信息。 好的，我这就去下载。 下载完后，你可以直接在APP内提交贷款申请，如果有任何问题，可以随时联系我。 行，我下载完就联系你。谢谢你，小李。",
+    "label": 1,
+    "query_times": 535,
+    "changes": [
+      {
+        "position": 124,
+        "original": "么",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0041648149490356445
+      },
+      {
+        "position": 125,
+        "original": "？",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0105171799659729
+      },
+      {
+        "position": 122,
+        "original": "做",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004705667495727539
+      },
+      {
+        "position": 114,
+        "original": "起",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0036089420318603516
+      },
+      {
+        "position": 118,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007470846176147461
+      },
+      {
+        "position": 109,
+        "original": "额",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002447783946990967
+      },
+      {
+        "position": 108,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00407487154006958
+      },
+      {
+        "position": 110,
+        "original": "度",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003477632999420166
+      },
+      {
+        "position": 115,
+        "original": "来",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.010114967823028564
+      },
+      {
+        "position": 107,
+        "original": "贷",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.010004758834838867
+      },
+      {
+        "position": 119,
+        "original": "需",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0502658486366272
+      },
+      {
+        "position": 105,
+        "original": "评",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.06256520748138428
+      },
+      {
+        "position": 102,
+        "original": "能",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.06799155473709106
+      },
+      {
+        "position": 106,
+        "original": "估",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.1591138243675232
+      },
+      {
+        "position": 100,
+        "original": "们",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 15,
+    "text_length": 231
+  },
+  {
+    "original_text": "你好，我是李文博，来自天京市投资咨询公司，我们这里有一款非常稳定的投资理财产品，月收益可以达到百分之八，你有兴趣了解一下吗？ 这么高的收益？听起来不错，但我对投资不太了解。 没关系，我们公司有专业的投资顾问，可以一对一指导。只要你下载我们公司的客户端，就可以免费获得一份投资指南，还有一次免费的投资策略咨询服务。 那我怎么下载你们的客户端呢？ 非常简单，你可以点击我即将发送给你的链接，直接下载。下载后注册账户，就可以开始体验了。 好的，我试试看。 太好了，我这就给你发送链接。下载后如果有任何问题，随时可以联系我。我的电话是四零零一二三三二一，也可以加我的微信，微信号就是我的手机号。 好的，谢谢你的帮助。 不客气，祝你投资顺利，有任何问题都可以找我。",
+    "adversarial_text": "你好，我是李文博，来自天京市投资咨询公司，我们这里有一款非常稳定的投资理财产品，月收益可以达到百分之八，你有兴趣了解一下吗？ 这么高的收益？听起来不错，但我对投资不太了X。 不XXX我X公司有专X的投XX问XXX一对一指导。X要你下载我X公司的客户端，就可以免费获得一份投资指南，还有一次免费的投资策略咨询服务。 那我怎么下载你们的客户端呢？ 非常简单，你可以点击我即将发送给你的链接，直接下载。下载后注册账户，就可以开始体验了。 好的，我试试看。 太好了，我这就给你发送链接。下载后如果有任何问题，随时可以联系我。我的电话是四零零一二三三二一，也可以加我的微信，微信号就是我的手机号。 好的，谢谢你的帮助。 不客气，祝你投资顺利，有任何问题都可以找我。",
+    "label": 1,
+    "query_times": 367,
+    "changes": [
+      {
+        "position": 118,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0050141215324401855
+      },
+      {
+        "position": 112,
+        "original": "只",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007128357887268066
+      },
+      {
+        "position": 104,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002711653709411621
+      },
+      {
+        "position": 103,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003522217273712158
+      },
+      {
+        "position": 105,
+        "original": "以",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002565145492553711
+      },
+      {
+        "position": 92,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010319948196411133
+      },
+      {
+        "position": 101,
+        "original": "顾",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00826483964920044
+      },
+      {
+        "position": 90,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003151535987854004
+      },
+      {
+        "position": 97,
+        "original": "业",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.01520538330078125
+      },
+      {
+        "position": 84,
+        "original": "解",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.009464144706726074
+      },
+      {
+        "position": 89,
+        "original": "系",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.015748143196105957
+      },
+      {
+        "position": 88,
+        "original": "关",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.026081621646881104
+      },
+      {
+        "position": 87,
+        "original": "没",
+        "replacement": "不",
+        "success": false,
+        "gap": 0.032913804054260254
+      },
+      {
+        "position": 100,
+        "original": "资",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 14,
+    "text_length": 327
+  },
+  {
+    "original_text": "喂 喂 你好，这里是速递宝快递客服中心，我是客服专员李华，您的一个包裹在运输过程中不慎遗失，我们非常抱歉给您带来了不便。 啊，真的吗？那怎么办？ 为了补偿您，我们可以为您提供一笔赔偿金，但需要您先点击我们发送的链接，填写一些个人信息，以便我们核实您的身份。 好的，那你们把链接发给我吧。 好的，稍等片刻，我这就给您发送。另外，为了避免类似的情况再次发生，我们建议您安装我们的官方APP，可以实时跟踪包裹动态。 安装APP也可以，那APP叫什么名字？ 我们的APP叫做‘速递宝官方’，您可以在手机应用商店搜索下载。 好的，我会去下载的，谢谢你的帮助。 不客气，如果有任何问题，都可以联系我。祝您生活愉快，再见。 再见。",
+    "adversarial_text": "喂 喂 你好，这里是速递宝快递客服中心，我是客服专员李华，您的一个包裹在运输过程中不Y遗Y，我们YYYYYX带来了不便。 啊，Y的吗Y那YYYY Y了补YX，我们可以为您提供一笔赔偿金，但需要XX点击我XX送的链接，填写一些个人X息，以便我XXXX的X份。 好的，那你们把链接发给我吧。 好的，稍等片刻，我这就给您发送。另外，为了避免类似的情况再次发生，我们建议您安装我们的官方APP，可以实时跟踪包裹动态。 安装APP也可以，那APP叫什么名字？ 我们的APP叫做‘速递宝官方’，您可以在手机应用商店搜索下载。 好的，我会去下载的，谢谢你的帮助。 不客气，如果有任何问题，都可以联系我。祝您生活愉快，再见。 再见。",
+    "label": 1,
+    "query_times": 837,
+    "changes": [
+      {
+        "position": 125,
+        "original": "身",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0028218626976013184
+      },
+      {
+        "position": 120,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0027759671211242676
+      },
+      {
+        "position": 122,
+        "original": "实",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007979154586791992
+      },
+      {
+        "position": 123,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.015876054763793945
+      },
+      {
+        "position": 121,
+        "original": "核",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.008672237396240234
+      },
+      {
+        "position": 102,
+        "original": "发",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.001220107078552246
+      },
+      {
+        "position": 77,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007164478302001953
+      },
+      {
+        "position": 114,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.010724067687988281
+      },
+      {
+        "position": 101,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004076123237609863
+      },
+      {
+        "position": 76,
+        "original": "偿",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00309145450592041
+      },
+      {
+        "position": 53,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004712343215942383
+      },
+      {
+        "position": 70,
+        "original": "办",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0014673471450805664
+      },
+      {
+        "position": 52,
+        "original": "给",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00018209218978881836
+      },
+      {
+        "position": 69,
+        "original": "么",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009299516677856445
+      },
+      {
+        "position": 49,
+        "original": "常",
+        "replacement": "Y",
+        "success": false,
+        "gap": 8.732080459594727e-05
+      },
+      {
+        "position": 51,
+        "original": "歉",
+        "replacement": "Y",
+        "success": false,
+        "gap": 3.0338764190673828e-05
+      },
+      {
+        "position": 71,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00047528743743896484
+      },
+      {
+        "position": 44,
+        "original": "失",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.6033649444580078e-05
+      },
+      {
+        "position": 42,
+        "original": "慎",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.7344951629638672e-05
+      },
+      {
+        "position": 48,
+        "original": "非",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.3053417205810547e-05
+      },
+      {
+        "position": 63,
+        "original": "真",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00016671419143676758
+      },
+      {
+        "position": 96,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.11504173278808594
+      },
+      {
+        "position": 68,
+        "original": "怎",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.007514595985412598
+      },
+      {
+        "position": 50,
+        "original": "抱",
+        "replacement": "Y",
+        "success": false,
+        "gap": 6.210803985595703e-05
+      },
+      {
+        "position": 66,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.005248069763183594
+      },
+      {
+        "position": 73,
+        "original": "为",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.01864314079284668
+      },
+      {
+        "position": 97,
+        "original": "先",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 27,
+    "text_length": 308
+  },
+  {
+    "original_text": "喂，你好，这边是天河科技有限公司的客服专员小张，我们注意到你最近在我们平台上的购物记录，有一笔订单可能存在异常，需要你配合我们进行核实。 真的吗？我最近确实买了很多东西，你们能不能告诉我具体是哪一笔？ 好的，你稍等一下，我查一下。嗯，是这样的，你最近有一笔订单，购买了一台笔记本电脑，价值五千多元，我们发现这可能是系统错误导致的价格异常。 哦，那怎么办呢？ 为了保障你的权益，我们需要你配合我们进行一次退款操作，同时我们会补偿你五百元的优惠券。你方便提供一下你的银行卡信息吗？ 好的，那我怎么提供呢？ 你可以点击这个链接，填写一下相关信息，我们会在两个工作日内处理好你的退款。 好的，我马上去操作。 好的，感谢你的配合，如果有什么问题，可以随时联系我们的客服电话。祝你生活愉快！ 谢谢，再见。",
+    "adversarial_text": "喂，你好，这边是天河科技有限公司的客服专员小张，我们注意到你最近在我们平台上的购物记录，有一X订单可能存在XY，需要你配合我们进行核实。 真的吗？我最近确实买了很多东西，你们能不X告诉我具体是哪一笔？ 好的，你稍等一下，我查一下。嗯，是这样的，你最近有一笔订单，购买了一台笔记本电脑，价值五千多元，我们发现这可能是系统错误导致的价格异常。 哦，那怎么办呢？ 为了保障你的权益，我们需要你配合我们进行一次退款操作，同时我们会补偿你五百元的优惠券。你方便提供一下你的银行卡信息吗？ 好的，那我怎么提供呢？ 你可以点击这个链接，填写一下相关信息，我们会在两个工作日内处理好你的退款。 好的，我马上去操作。 好的，感谢你的配合，如果有什么问题，可以随时联系我们的客服电话。祝你生活愉快！ 谢谢，再见。",
+    "label": 1,
+    "query_times": 854,
+    "changes": [
+      {
+        "position": 53,
+        "original": "异",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.001100301742553711
+      },
+      {
+        "position": 89,
+        "original": "能",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.012603044509887695
+      },
+      {
+        "position": 54,
+        "original": "常",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.019291698932647705
+      },
+      {
+        "position": 46,
+        "original": "笔",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 4,
+    "text_length": 346
+  },
+  {
+    "original_text": "喂你好，这里是中行信贷中心，我是李经理。 你好，有什么事情吗？ 是这样的，我们这边推出了一款新的信贷产品，月息很低，而且审批非常快，不知道你是否有兴趣了解一下？ 哦，我最近确实需要一些资金周转，可以详细说说吗？ 当然可以，这款信贷产品是专门为优质客户设计的，只要你有稳定的收入，我们就可以提供最高二十万的贷款额度，而且流程非常简单。 听起来不错，那我需要准备些什么材料呢？ 你只需要提供身份证和收入证明，剩下的交给我们就好。为了方便你申请，你可以先下载我们的官方APP，注册并填写相关信息。 好的，APP叫什么名字？ APP叫做‘快速贷’，你可以在应用商店搜索下载。下载后记得用手机号码注册，注册成功后我会给你打电话确认信息。 好的，我这就去下载。",
+    "adversarial_text": "喂你好，这里是中行信贷中心，我是李经理。 你好，有什么事情吗？ 是这样的，我们这边推出了一YY的YYYY，YY很Y，YYYYYXY，不知道你是否有YY了Y一下？ 哦，我Y近Y实需要一些资金周转，X以详X说说吗X X然X以X这XXXXX是X门为优XX户设计的，只要你有稳定的收入，我们就可以提供最高二十万的贷款额度，而且流程非常简单。 听起来不错，那我需要准备些什么材料呢？ 你只需要提供身份证和收入证明，剩下的交给我们就好。为了方便你申请，你可以先下载我们的官方APP，注册并填写相关信息。 好的，APP叫什么名字？ APP叫做‘快速贷’，你可以在应用商店搜索下载。下载后记得用手机号码注册，注册成功后我会给你打电话确认信息。 好的，我这就去下载。",
+    "label": 1,
+    "query_times": 436,
+    "changes": [
+      {
+        "position": 115,
+        "original": "产",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0006110072135925293
+      },
+      {
+        "position": 114,
+        "original": "贷",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0005287528038024902
+      },
+      {
+        "position": 123,
+        "original": "客",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010145306587219238
+      },
+      {
+        "position": 118,
+        "original": "专",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0008625388145446777
+      },
+      {
+        "position": 113,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0008366107940673828
+      },
+      {
+        "position": 116,
+        "original": "品",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0013998150825500488
+      },
+      {
+        "position": 112,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0015649795532226562
+      },
+      {
+        "position": 122,
+        "original": "质",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007252693176269531
+      },
+      {
+        "position": 108,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002868056297302246
+      },
+      {
+        "position": 110,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00515669584274292
+      },
+      {
+        "position": 106,
+        "original": "当",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005026340484619141
+      },
+      {
+        "position": 104,
+        "original": "？",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0059705376625061035
+      },
+      {
+        "position": 63,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005306899547576904
+      },
+      {
+        "position": 73,
+        "original": "兴",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0027762651443481445
+      },
+      {
+        "position": 60,
+        "original": "审",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00043147802352905273
+      },
+      {
+        "position": 76,
+        "original": "解",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0016438961029052734
+      },
+      {
+        "position": 61,
+        "original": "批",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0002319812774658203
+      },
+      {
+        "position": 62,
+        "original": "非",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0001232624053955078
+      },
+      {
+        "position": 64,
+        "original": "快",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00034034252166748047
+      },
+      {
+        "position": 54,
+        "original": "息",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00011682510375976562
+      },
+      {
+        "position": 56,
+        "original": "低",
+        "replacement": "Y",
+        "success": false,
+        "gap": 4.6133995056152344e-05
+      },
+      {
+        "position": 49,
+        "original": "贷",
+        "replacement": "Y",
+        "success": false,
+        "gap": 4.655122756958008e-05
+      },
+      {
+        "position": 50,
+        "original": "产",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.7642974853515625e-05
+      },
+      {
+        "position": 51,
+        "original": "品",
+        "replacement": "Y",
+        "success": false,
+        "gap": 6.854534149169922e-06
+      },
+      {
+        "position": 58,
+        "original": "而",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.3828277587890625e-05
+      },
+      {
+        "position": 74,
+        "original": "趣",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0003459453582763672
+      },
+      {
+        "position": 48,
+        "original": "信",
+        "replacement": "Y",
+        "success": false,
+        "gap": 6.616115570068359e-06
+      },
+      {
+        "position": 53,
+        "original": "月",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.384185791015625e-07
+      },
+      {
+        "position": 59,
+        "original": "且",
+        "replacement": "Y",
+        "success": false,
+        "gap": 8.106231689453125e-06
+      },
+      {
+        "position": 84,
+        "original": "最",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.010200679302215576
+      },
+      {
+        "position": 45,
+        "original": "款",
+        "replacement": "Y",
+        "success": false,
+        "gap": 6.496906280517578e-06
+      },
+      {
+        "position": 46,
+        "original": "新",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.7285346984863281e-06
+      },
+      {
+        "position": 86,
+        "original": "确",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.029155969619750977
+      },
+      {
+        "position": 100,
+        "original": "细",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.19273781776428223
+      },
+      {
+        "position": 97,
+        "original": "可",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 35,
+    "text_length": 324
+  },
+  {
+    "original_text": "喂，你好，我是你的金融顾问小李，专门为你提供最新的银行贷款信息。 你好，我有什么贷款需求吗？ 嗯，最近我们银行推出了一款全新的信用贷款产品，零首付，低利率，您只需要提供一些基本的个人信息，就可以快速审批。 听起来不错，但我最近资金周转有点困难。 这正是我们产品的优势，可以帮助您解决短期的资金问题。而且，我们现在有一个限时优惠活动，只要您今天申请，还可以享受额外的一万元免息额度。 那我怎么申请呢？ 太好了，您只需要点击这个链接（模拟通话中的口头表述），填写您的个人信息，我们的系统会自动为您完成审批。 我不是很懂这些，如果我点击了链接，会有风险吗？ 您放心，我们是正规银行，所有操作都是安全的。而且，如果您有任何疑问，都可以随时联系我。 好的，我试试看。 太好了，您就按照我说的步骤操作，如果有任何问题，随时可以拨打我的电话。祝您申请顺利！",
+    "adversarial_text": "喂，你好，我是你的金融顾问小李，专门为你提供最新的银行贷款信息。 你好，我有什么贷款需求吗？ 嗯，最近我们银行推出了一款全新的信用贷款产品，零首付，低利率，您只需要提供一些基本的个人信息，就可以快X审批。 听XX不错XX我X近XX周X有点困难。 这正是我们产品的优势，可以帮助您解决短期的资金问题。而且，我们现在有一个限时优惠活动，只要您今天申请，还可以享受额外的一万元免息额度。 那我怎么申请呢？ 太好了，您只需要点击这个链接（模拟通话中的口头表述），填写您的个人信息，我们的系统会自动为您完成审批。 我不是很懂这些，如果我点击了链接，会有风险吗？ 您放心，我们是正规银行，所有操作都是安全的。而且，如果您有任何疑问，都可以随时联系我。 好的，我试试看。 太好了，您就按照我说的步骤操作，如果有任何问题，随时可以拨打我的电话。祝您申请顺利！",
+    "label": 1,
+    "query_times": 396,
+    "changes": [
+      {
+        "position": 114,
+        "original": "金",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0031842589378356934
+      },
+      {
+        "position": 113,
+        "original": "资",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005029559135437012
+      },
+      {
+        "position": 111,
+        "original": "最",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005848288536071777
+      },
+      {
+        "position": 116,
+        "original": "转",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.02126103639602661
+      },
+      {
+        "position": 108,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.028766751289367676
+      },
+      {
+        "position": 109,
+        "original": "但",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.030887603759765625
+      },
+      {
+        "position": 104,
+        "original": "起",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.11422806978225708
+      },
+      {
+        "position": 105,
+        "original": "来",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.15778040885925293
+      },
+      {
+        "position": 98,
+        "original": "速",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 9,
+    "text_length": 371
+  },
+  {
+    "original_text": "喂，你好，我是小张，这边是深圳商行，我们注意到你的服装厂最近经营情况不错，符合我们的贷款条件，可以给你一笔一百万的无抵押贷款，用得上吗？ 哦，真的吗？ 是的，只需要你提供一些基本的资料，我们就可以快速审批。你最近需要资金周转吗？ 需要呢，但是我不太了解这个流程。 没关系，我们这个流程非常简单，只需要你点击我们提供的链接，填写一些基本信息就可以了。 好的，那我怎么知道这个链接是安全的？ 你放心，我们是正规银行，链接也是安全的。为了方便你操作，我现在给你发一个验证码，你输入后就能进入我们的贷款页面了。 行吧，我试试看。 太好了，验证码是六六六六六六，你输入后就可以看到申请页面了。 好的，我试试。",
+    "adversarial_text": "喂，你好，我是小张，这边是深圳商行，我们注意到你的服装厂最近经营情况不错，符合我们的贷款条件，可以给你一笔一百万的无抵押贷款，用得上吗？ 哦，真的吗？ 是的，只需要你提供一些基本的资料，我X就X以XXXX。你X近需要XX周X吗X 需要呢X但是我不X了X这个流程。 没关系，我们这个流程非常简单，只需要你点击我们提供的链接，填写一些基本信息就可以了。 好的，那我怎么知道这个链接是安全的？ 你放心，我们是正规银行，链接也是安全的。为了方便你操作，我现在给你发一个验证码，你输入后就能进入我们的贷款页面了。 行吧，我试试看。 太好了，验证码是六六六六六六，你输入后就可以看到申请页面了。 好的，我试试。",
+    "label": 1,
+    "query_times": 714,
+    "changes": [
+      {
+        "position": 123,
+        "original": "太",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003404974937438965
+      },
+      {
+        "position": 125,
+        "original": "解",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.006037533283233643
+      },
+      {
+        "position": 118,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002777695655822754
+      },
+      {
+        "position": 113,
+        "original": "？",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0014554262161254883
+      },
+      {
+        "position": 109,
+        "original": "金",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0015298128128051758
+      },
+      {
+        "position": 108,
+        "original": "资",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002991974353790283
+      },
+      {
+        "position": 99,
+        "original": "速",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010155439376831055
+      },
+      {
+        "position": 100,
+        "original": "审",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0009630918502807617
+      },
+      {
+        "position": 111,
+        "original": "转",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.012330412864685059
+      },
+      {
+        "position": 101,
+        "original": "批",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007183849811553955
+      },
+      {
+        "position": 96,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.013312578201293945
+      },
+      {
+        "position": 104,
+        "original": "最",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.12722265720367432
+      },
+      {
+        "position": 98,
+        "original": "快",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.15777355432510376
+      },
+      {
+        "position": 94,
+        "original": "们",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 14,
+    "text_length": 299
+  },
+  {
+    "original_text": "喂，你好，这边是深圳银行的客服专员，我叫李文博，我们系统显示您的信用良好，可以为您提供一笔低息贷款，您最近是否有资金需求呢？ 你好，暂时没有需求，谢谢。 好的，理解您的情况。不过如果将来有需要的话，可以考虑一下。对了，加个微信吧，以后有任何问题可以直接联系我，更方便。 这个就不必了，谢谢。 那好吧，不过我这有一个特别的优惠活动，只需扫描二维码下载我们的官方APP，注册后即可享受首次贷款利率八折的优惠，您有兴趣了解一下吗？ 听起来不错，怎么操作？ 太好了，您只要打开微信，扫描我发给您的二维码，下载APP，完成注册后，就可以看到这项优惠了。 好，我试试看。 那您稍等一下，我马上给您发过去。如果有任何问题，随时可以联系我。祝您使用愉快！ 谢谢，再见。",
+    "adversarial_text": "喂，你好，这边是深圳银行的客服专员，我叫李文博，我们系统显示您的信用良好，可以为您提供一X低息贷款，您最近是否有资金需求呢？ 你好，暂时没有需求XXX。 好的，理XX的X况。不过如果将来有需要的话，可以考虑一下。对了，加个微X吧X以X有X何问题可以直接联系我，更方便。 这个就不必了，谢谢。 那好吧，不过我这有一个特别的优惠活动，只需扫描二维码下载我们的官方APP，注册后即可享受首次贷款利率八折的优惠，您有兴趣了解一下吗？ 听起来不错，怎么操作？ 太好了，您只要打开微信，扫描我发给您的二维码，下载APP，完成注册后，就可以看到这项优惠了。 好，我试试看。 那您稍等一下，我马上给您发过去。如果有任何问题，随时可以联系我。祝您使用愉快！ 谢谢，再见。",
+    "label": 1,
+    "query_times": 357,
+    "changes": [
+      {
+        "position": 118,
+        "original": "任",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0024782419204711914
+      },
+      {
+        "position": 116,
+        "original": "后",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0015096068382263184
+      },
+      {
+        "position": 114,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0019118785858154297
+      },
+      {
+        "position": 112,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0023442506790161133
+      },
+      {
+        "position": 82,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0001327991485595703
+      },
+      {
+        "position": 81,
+        "original": "解",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00036144256591796875
+      },
+      {
+        "position": 74,
+        "original": "谢",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0003440976142883301
+      },
+      {
+        "position": 84,
+        "original": "情",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002667665481567383
+      },
+      {
+        "position": 73,
+        "original": "谢",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.06245142221450806
+      },
+      {
+        "position": 44,
+        "original": "笔",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.09128504991531372
+      },
+      {
+        "position": 72,
+        "original": "，",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 11,
+    "text_length": 326
+  },
+  {
+    "original_text": "喂，你好，我是建设银行的贷款专员，你最近有没有考虑过贷款购车呢？ 你好，我暂时没有购车的打算。 哦，这样啊。那不知道你对投资理财感不感兴趣？我们这里有一个非常不错的理财产品，收益稳定，风险低，非常适合目前的市场环境。 投资理财吗？我了解一下吧。 太好了，为了更好地服务你，我需要你提供一些个人信息，比如你的姓名、手机号码，这样我可以将详细的资料发送给你。 好的，我叫李明，手机号码是一三六一二三六五六七。 李明是吧，我已经记录好了。稍后我会通过短信将链接发给你，你点击链接就可以看到详细的产品介绍。 好的，谢谢你。 不客气，如果你有任何疑问，可以随时联系我。对了，为了确保你的信息安全，点击链接后请按照页面提示操作，不要将验证码告知他人。 好的，我知道了。谢谢你的提醒。",
+    "adversarial_text": "喂，你好，我是建设银行的贷款专员，你最近有没有考虑过贷款购车呢？ 你好，我暂时没有购车的打算。 哦，这样啊。那不知道你对投YYXX不感兴趣？我们这里有一个非常不错的理财产品，收XX定X风险XXXXXXXX的市场环境。 投资X财吗X我了X一下吧。 太好了，为了更好地服务你，我需要你提供一些个人信息，比如你的姓名、手机号码，这样我可以将详细的资料发送给你。 好的，我叫李明，手机号码是一三六一二三六五六七。 李明是吧，我已经记录好了。稍后我会通过短信将链接发给你，你点击链接就可以看到详细的产品介绍。 好的，谢谢你。 不客气，如果你有任何疑问，可以随时联系我。对了，为了确保你的信息安全，点击链接后请按照页面提示操作，不要将验证码告知他人。 好的，我知道了。谢谢你的提醒。",
+    "label": 1,
+    "query_times": 387,
+    "changes": [
+      {
+        "position": 117,
+        "original": "解",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0037984251976013184
+      },
+      {
+        "position": 114,
+        "original": "？",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0014015436172485352
+      },
+      {
+        "position": 99,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00023055076599121094
+      },
+      {
+        "position": 100,
+        "original": "目",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00023931264877319336
+      },
+      {
+        "position": 101,
+        "original": "前",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0002065896987915039
+      },
+      {
+        "position": 98,
+        "original": "适",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00040656328201293945
+      },
+      {
+        "position": 97,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007572770118713379
+      },
+      {
+        "position": 111,
+        "original": "理",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0028600096702575684
+      },
+      {
+        "position": 95,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0017567276954650879
+      },
+      {
+        "position": 96,
+        "original": "非",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002876102924346924
+      },
+      {
+        "position": 94,
+        "original": "低",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00848078727722168
+      },
+      {
+        "position": 88,
+        "original": "益",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.009431958198547363
+      },
+      {
+        "position": 91,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.028290867805480957
+      },
+      {
+        "position": 63,
+        "original": "财",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.006316423416137695
+      },
+      {
+        "position": 61,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.04109025001525879
+      },
+      {
+        "position": 89,
+        "original": "稳",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.10247200727462769
+      },
+      {
+        "position": 62,
+        "original": "理",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.22809112071990967
+      },
+      {
+        "position": 64,
+        "original": "感",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 18,
+    "text_length": 335
+  },
+  {
+    "original_text": "喂，你好，这里是星辉科技的客服中心，我是客服小李。 喂，你好。 注意到你的订单可能出现了点小问题，需要你配合处理一下。 什么问题啊？ 你的订单似乎被冻结了，这可能是系统出现了错误。不过不用担心，我们有解决方案。 那怎么办呢？ 为了更快地解决问题，我们需要你通过我们的专用链接进入安全页面进行身份验证。 安全页面？ 对，这是一个特别为解决此类问题设计的页面。你只需要点击链接，按照指示操作即可。 好的，我试试。 好的，我马上给你发送链接。请确保在安全的网络环境下打开，并尽快完成验证。 收到，谢谢。 不客气，如果有任何疑问，可以随时联系我们。祝你一切顺利。 好的，再见。",
+    "adversarial_text": "喂，你好，这里是星辉科技的客服中心，我是客服小李。 喂，你好。 注意到你的订单可能出现了点小问题，需要你配合处理一下。 什么问题啊？ 你的订单似乎被冻结了，这可能是系统出现了错误。不过不用担心，我们有解决方案。 那怎么X呢？ 为了更X地X决问题，我们需要你通过我们的专用链接进入安全页面进行身份验证。 安全页面？ 对，这是一个特别为解决此类问题设计的页面。你只需要点击链接，按照指示操作即可。 好的，我试试。 好的，我马上给你发送链接。请确保在安全的网络环境下打开，并尽快完成验证。 收到，谢谢。 不客气，如果有任何疑问，可以随时联系我们。祝你一切顺利。 好的，再见。",
+    "label": 1,
+    "query_times": 291,
+    "changes": [
+      {
+        "position": 116,
+        "original": "快",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.04050403833389282
+      },
+      {
+        "position": 109,
+        "original": "办",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.2105911374092102
+      },
+      {
+        "position": 118,
+        "original": "解",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 3,
+    "text_length": 284
+  },
+  {
+    "original_text": "喂，你好，我是李威，来自天安金融，我们这里有最新的投资理财产品，收益很高，你有兴趣了解一下吗？ 嗯，我最近确实对投资有一些兴趣，你们的产品具体是怎么样的？ 真是太好了，我们这款产品是专门针对高净值客户的，年化收益可以达到百分之十五，而且风险非常低。 听起来不错，但这么高的收益，我怎么相信你们呢？ 我们公司是经过国家认证的，你可以在我们的官网上查看相关资质。而且，现在有一个特别的优惠，如果你今天决定投资，我们可以免费赠送你一次资产配置咨询服务。 好吧，那我怎么参与呢？ 非常简单，你只需要下载我们的APP，注册并完成实名认证，然后就可以选择你感兴趣的产品进行投资了。 下载APP？我担心会有安全问题。 我们完全理解你的顾虑，但我们的APP非常安全，而且操作简便。如果你不放心，可以先下载APP，了解一下，不一定要立即投资。 好吧，那我试试看。 太好了，这是我们的APP下载链接，你可以直接点击下载。如果有任何问题，随时联系我。",
+    "adversarial_text": "喂，你好，我是李威，来自天安金融，我们这里有最新的投YYY产品，收益很高，你有兴趣了解一下吗？ 嗯，我最近确实对投资有一些X趣X你们的产品具体是怎么样的？ 真是X好了X我X这XXX是X门针对X净值客户的，年化收XX以X到X分之X五XX且风险非X低。 X起来不错，但这么高的收益，我怎么相信你们呢？ 我们公司是经过国家认证的，你可以在我们的官网上查看相关资质。而且，现在有一个特别的优惠，如果你今天决定投资，我们可以免费赠送你一次资产配置咨询服务。 好吧，那我怎么参与呢？ 非常简单，你只需要下载我们的APP，注册并完成实名认证，然后就可以选择你感兴趣的产品进行投资了。 下载APP？我担心会有安全问题。 我们完全理解你的顾虑，但我们的APP非常安全，而且操作简便。如果你不放心，可以先下载APP，了解一下，不一定要立即投资。 好吧，那我试试看。 太好了，这是我们的APP下载链接，你可以直接点击下载。如果有任何问题，随时联系我。",
+    "label": 1,
+    "query_times": 1148,
+    "changes": [
+      {
+        "position": 125,
+        "original": "听",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0022626519203186035
+      },
+      {
+        "position": 116,
+        "original": "而",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.001293480396270752
+      },
+      {
+        "position": 115,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0014390349388122559
+      },
+      {
+        "position": 113,
+        "original": "十",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0012764930725097656
+      },
+      {
+        "position": 106,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007395744323730469
+      },
+      {
+        "position": 121,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.013530850410461426
+      },
+      {
+        "position": 108,
+        "original": "达",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003507852554321289
+      },
+      {
+        "position": 110,
+        "original": "百",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004702508449554443
+      },
+      {
+        "position": 105,
+        "original": "益",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.009363651275634766
+      },
+      {
+        "position": 95,
+        "original": "高",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.006290853023529053
+      },
+      {
+        "position": 88,
+        "original": "产",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0019107460975646973
+      },
+      {
+        "position": 87,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00305861234664917
+      },
+      {
+        "position": 91,
+        "original": "专",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0035445690155029297
+      },
+      {
+        "position": 89,
+        "original": "品",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.005741596221923828
+      },
+      {
+        "position": 85,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.006395280361175537
+      },
+      {
+        "position": 83,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.008922159671783447
+      },
+      {
+        "position": 80,
+        "original": "太",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.017947018146514893
+      },
+      {
+        "position": 61,
+        "original": "兴",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004998445510864258
+      },
+      {
+        "position": 63,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.009769916534423828
+      },
+      {
+        "position": 26,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0033088326454162598
+      },
+      {
+        "position": 27,
+        "original": "理",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.012472450733184814
+      },
+      {
+        "position": 28,
+        "original": "财",
+        "replacement": "Y",
+        "success": true
+      }
+    ],
+    "change_count": 22,
+    "text_length": 414
+  },
+  {
+    "original_text": "喂，您好，我是小刘，这里是北京银行客服中心。 你好，有什么事吗？ 您最近在我行的信用卡使用非常活跃，我们有一个特别的优惠活动，想邀请您参加。 哦，什么活动？ 我们有一个投资理财项目，回报率非常高，而且风险很低，非常适合您这样的优质客户。 听起来不错，怎么参加？ 您只需要点击这个链接，下载我们的理财APP，注册后就有专人为您服务。 这个APP安全吗？ 绝对安全，我们是正规银行推出的官方APP，您可以放心使用。 好的，我试试看。 太好了，您下载后有任何问题都可以随时联系我，我的电话是12345678901。",
+    "adversarial_text": "喂，您好，我是小刘，这里是北京银行客服中心。 你好，有什么事吗？ 您最近在我行的信用卡使用非常活跃，我们有一个特别的优惠活动，想邀请您参加。 哦，什么活动？ 我们有一个投Y理Y项目，回报率非常高，而且风险很低，非XXXX这X的XX客户。 听X来不XX怎么参加？ 您只需要点击这个链接，下载我们的理财APP，注册后就有专人为您服务。 这个APP安全吗？ 绝对安全，我们是正规银行推出的官方APP，您可以放心使用。 好的，我试试看。 太好了，您下载后有任何问题都可以随时联系我，我的电话是12345678901。",
+    "label": 1,
+    "query_times": 600,
+    "changes": [
+      {
+        "position": 123,
+        "original": "错",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0004819631576538086
+      },
+      {
+        "position": 124,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0059836506843566895
+      },
+      {
+        "position": 120,
+        "original": "起",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00577235221862793
+      },
+      {
+        "position": 111,
+        "original": "样",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007625222206115723
+      },
+      {
+        "position": 109,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.000913083553314209
+      },
+      {
+        "position": 108,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0013371706008911133
+      },
+      {
+        "position": 114,
+        "original": "质",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003927350044250488
+      },
+      {
+        "position": 85,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0012307167053222656
+      },
+      {
+        "position": 107,
+        "original": "适",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003864586353302002
+      },
+      {
+        "position": 106,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.013027369976043701
+      },
+      {
+        "position": 87,
+        "original": "财",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.22824722528457642
+      },
+      {
+        "position": 113,
+        "original": "优",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 12,
+    "text_length": 254
+  },
+  {
+    "original_text": "喂，你好，这里是康城银行的客服中心，你最近是不是申请了一笔贷款？ 是的，我确实申请了，但是还没有收到回复。 好的，我这边可以帮你加快审核进度，不过需要你先下载我们的官方APP，这样可以更快捷地处理你的申请。 那好的，我这就去下载。 太好了，下载后你直接注册账号，然后将你的个人信息补全，我们会尽快处理。 好的，我知道了。 还有，为了确认你的身份，你需要提供一些验证信息，比如银行卡号和验证码，可以吗？ 可以的，那我下载完APP后怎么联系你？ 你可以在APP内直接联系客服，我会第一时间为你处理。 好的，谢谢你的帮助。",
+    "adversarial_text": "喂，你好，这里是康城银行的客服中心，你最近是不是申请了一笔贷款？ 是的，我确实申请了，但是还没有收到回复。 好的，我这边可以帮你加快审核进度，不过需要你先下载我们的官方AXP，这样可以更快捷地处理你的申请。 那好的，我这就去下载。 太好了，下载后你直接注册账号，然后将你的个人信息补全，我们会尽快处理。 好的，我知道了。 还有，为了确认你的身份，你需要提供一些验证信息，比如银行卡号和验证码，可以吗？ 可以的，那我下载完APP后怎么联系你？ 你可以在APP内直接联系客服，我会第一时间为你处理。 好的，谢谢你的帮助。",
+    "label": 1,
+    "query_times": 259,
+    "changes": [
+      {
+        "position": 85,
+        "original": "P",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 1,
+    "text_length": 258
+  },
+  {
+    "original_text": "喂，你好，我是小张，我们这里是星辉投资公司的客服专员，最近我们有一个特别好的投资项目，收益非常高，风险又低，你有兴趣了解一下吗？ 你好，这个项目具体是什么内容呢？ 这个项目是关于我们公司最新推出的海外基金，近期市场表现非常好，很多客户都已经获得了不错的收益。你只需要投资一小部分资金，就可以享受到高额的回报。 听起来不错，但是怎么参与呢？ 非常简单，你只需要下载我们公司的官方APP，注册后就可以直接在平台上操作了。如果你不方便下载，我也可以发一个链接给你，点击链接就可以直接参与，非常方便。 那这个链接怎么发给我呢？ 你只需要告诉我你的手机号码，我会通过短信将链接发给你。为了保证安全，你也可以加我的私人微信，这样沟通更方便。 好的，那我的电话是零零零零零零零零零零，微信就用这个手机号吧。 好的，我已经记下了，稍后你就会收到短信。如果有任何问题，随时联系我。投资早，收益早，不要错过这次机会哦。 好的，谢谢你的推荐，我会考虑的。",
+    "adversarial_text": "喂，你好，我是小张，我们这里是星辉投资公司的客服专员，最近我们有一个特别好的投X项目，收X非常高，风险又低，你有兴趣了解一下吗？ 你好，这个项目具体是什么内容呢？ 这个项目是关于我们公司最新X出的海外基金X近期市场表X非X好X很多客户都已经获X了不错的收益。你只需要投资一小部分资金，就可以享受到高额的回报。 听起来不错，但是怎么参与呢？ 非常简单，你只需要下载我们公司的官方APP，注册后就可以直接在平台上操作了。如果你不方便下载，我也可以发一个链接给你，点击链接就可以直接参与，非常方便。 那这个链接怎么发给我呢？ 你只需要告诉我你的手机号码，我会通过短信将链接发给你。为了保证安全，你也可以加我的私人微信，这样沟通更方便。 好的，那我的电话是零零零零零零零零零零，微信就用这个手机号吧。 好的，我已经记下了，稍后你就会收到短信。如果有任何问题，随时联系我。投资早，收益早，不要错过这次机会哦。 好的，谢谢你的推荐，我会考虑的。",
+    "label": 1,
+    "query_times": 1086,
+    "changes": [
+      {
+        "position": 44,
+        "original": "益",
+        "replacement": "X",
+        "success": false,
+        "gap": 7.927417755126953e-06
+      },
+      {
+        "position": 121,
+        "original": "得",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.031290531158447266
+      },
+      {
+        "position": 110,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.017486751079559326
+      },
+      {
+        "position": 112,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.021117806434631348
+      },
+      {
+        "position": 108,
+        "original": "现",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.06387937068939209
+      },
+      {
+        "position": 102,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.044654250144958496
+      },
+      {
+        "position": 95,
+        "original": "推",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.043415963649749756
+      },
+      {
+        "position": 39,
+        "original": "资",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 8,
+    "text_length": 416
+  },
+  {
+    "original_text": "喂，你好，是张华吗？ 是的，你是哪位？ 我是你的老同学李明，最近在做一项特别好的投资项目，觉得你可能会感兴趣。 哦，是什么项目？ 这是一个新兴的区块链项目，收益非常可观，而且风险很低。我准备自己也投一部分，想不想一起？ 听起来挺好的，不过我对这方面的知识不太了解。 没问题，我可以给你发一些资料，你先看看。或者我给你一个链接，你直接在上面注册，有不明白的我可以随时给你解释。 那链接是怎么样的？ 你等一下，我马上发给你。这个链接只能通过我这里获取，外人是不能进入的。 好的，我等你的链接。",
+    "adversarial_text": "喂，你好，是张华吗？ 是的，你是哪位？ 我是你的老同学李明，最近在做一项特别好的投资项目，觉得你可能会感兴趣。 哦，是什么项目？ 这是一个新兴的区块链项目，收X非X可观，而且风险很低。我准备自己也投一部分，想不想一起？ 听起来挺好的，不过我对这方面的知识不太了解。 没问题，我可以给你发一些资料，你先看看。或者我给你一个链接，你直接在上面注册，有不明白的我可以随时给你解释。 那链接是怎么样的？ 你等一下，我马上发给你。这个链接只能通过我这里获取，外人是不能进入的。 好的，我等你的链接。",
+    "label": 1,
+    "query_times": 248,
+    "changes": [
+      {
+        "position": 79,
+        "original": "益",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00256955623626709
+      },
+      {
+        "position": 81,
+        "original": "常",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 2,
+    "text_length": 244
+  },
+  {
+    "original_text": "喂，你好，我是工商银行的小张，我们这边有一款全新的贷款产品，可以解决你的资金周转问题，你觉得你现在有没有这方面的需要呢？ 哦，这个嘛，我最近确实有点资金紧张，但是我对这个不太了解。 没问题，这款产品非常方便，不需要复杂的手续，也不需要征信，非常适合你这样的情况。 那听起来不错，我怎么申请呢？ 太好了，你只要下载我们银行的APP，注册账号后就可以立即申请了。 哦，我怎么知道这个APP是安全的？ 我们是正规银行，绝对安全。你可以直接通过这个链接下载：（模拟链接声音） 好的，我试试看。 非常好，如果你有任何问题，可以随时联系我。为了方便沟通，你可以加我的微信，我的微信号是（模拟微信号声音）。 好，我加你微信。",
+    "adversarial_text": "喂，你好，我是工商银行的小张，我们这边有一款全新的YYY品，可以解决你的资金周转问题，你觉得你现在有没有这方面的需要呢？ 哦，这个嘛，我最近确实有点资金紧张，但是我对这个不太了解。 没问题X这XXXXXXXX不X要复X的手续，也不需要征XX非XXX你这样的情况。 那听起来不错，我怎么申请呢？ 太好了，你只要下载我们银行的APP，注册账号后就可以立即申请了。 哦，我怎么知道这个APP是安全的？ 我们是正规银行，绝对安全。你可以直接通过这个链接下载：（模拟链接声音） 好的，我试试看。 非常好，如果你有任何问题，可以随时联系我。为了方便沟通，你可以加我的微信，我的微信号是（模拟微信号声音）。 好，我加你微信。",
+    "label": 1,
+    "query_times": 360,
+    "changes": [
+      {
+        "position": 121,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0021929144859313965
+      },
+      {
+        "position": 122,
+        "original": "适",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.003451049327850342
+      },
+      {
+        "position": 123,
+        "original": "合",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.008412539958953857
+      },
+      {
+        "position": 119,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004732310771942139
+      },
+      {
+        "position": 118,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007161498069763184
+      },
+      {
+        "position": 108,
+        "original": "杂",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0033986568450927734
+      },
+      {
+        "position": 105,
+        "original": "需",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002808213233947754
+      },
+      {
+        "position": 103,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0036295056343078613
+      },
+      {
+        "position": 100,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004988312721252441
+      },
+      {
+        "position": 102,
+        "original": "便",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.006474673748016357
+      },
+      {
+        "position": 97,
+        "original": "产",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.004577815532684326
+      },
+      {
+        "position": 98,
+        "original": "品",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.007090091705322266
+      },
+      {
+        "position": 99,
+        "original": "非",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0164262056350708
+      },
+      {
+        "position": 96,
+        "original": "款",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.04461193084716797
+      },
+      {
+        "position": 94,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.09967130422592163
+      },
+      {
+        "position": 25,
+        "original": "贷",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.1651875376701355
+      },
+      {
+        "position": 26,
+        "original": "款",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.06369060277938843
+      },
+      {
+        "position": 27,
+        "original": "产",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.008330285549163818
+      },
+      {
+        "position": 101,
+        "original": "方",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 19,
+    "text_length": 305
+  },
+  {
+    "original_text": "喂，你好，这里是阳光投资咨询公司的张经理，您最近是不是对投资理财比较感兴趣呢？ 你好，是的，我最近确实想了解一下投资方面的事情。 太好了，我们公司最近有一个非常稳健的投资项目，收益非常高，风险也很低，您有兴趣了解一下吗？ 听起来不错，可以告诉我更多细节吗？ 当然可以，不过这个项目是内部信息，为了保证您的安全，我们需要您下载我们的专用APP，这样可以更详细地了解项目详情。 下载APP？这个安全吗？ 非常安全，我们公司有专门的技术团队保障，您只需要扫描我发给您的二维码，下载APP后，我可以在里面给您详细介绍。 那好吧，我试试看。 太好了，我马上把二维码发给您，您注意查收。下载后我们再详细聊，有任何问题都可以随时联系我。 好的，谢谢你的帮助。",
+    "adversarial_text": "喂，你好，这Y是YYYYYY公司的YYY，YYY是不是YYXYY比YYYY呢Y 你好，是的，我YYYY想了Y一下YYYY的YYY Y好了，我X公司XY有一YYXYX的YX项YXXXXXXXXX也很XXX有XY了X一下吗X YXX不YXXY告诉我XXX节吗？ 当然可以，不过这个项目是内部信息，为了保证您的安全，我们需要您下载我们的专用APP，这样可以更详细地了解项目详情。 下载APP？这个安全吗？ 非常安全，我们公司有专门的技术团队保障，您只需要扫描我发给您的二维码，下载APP后，我可以在里面给您详细介绍。 那好吧，我试试看。 太好了，我马上把二维码发给您，您注意查收。下载后我们再详细聊，有任何问题都可以随时联系我。 好的，谢谢你的帮助。",
+    "label": 1,
+    "query_times": 596,
+    "changes": [
+      {
+        "position": 122,
+        "original": "更",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.002832770347595215
+      },
+      {
+        "position": 117,
+        "original": "可",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0009219646453857422
+      },
+      {
+        "position": 123,
+        "original": "多",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00032323598861694336
+      },
+      {
+        "position": 116,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0010196566581726074
+      },
+      {
+        "position": 112,
+        "original": "起",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007702112197875977
+      },
+      {
+        "position": 105,
+        "original": "解",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00048619508743286133
+      },
+      {
+        "position": 109,
+        "original": "？",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0007278919219970703
+      },
+      {
+        "position": 113,
+        "original": "来",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0011363625526428223
+      },
+      {
+        "position": 100,
+        "original": "您",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.000568389892578125
+      },
+      {
+        "position": 102,
+        "original": "兴",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.001419365406036377
+      },
+      {
+        "position": 93,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0005295276641845703
+      },
+      {
+        "position": 92,
+        "original": "高",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0006564855575561523
+      },
+      {
+        "position": 99,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0025844573974609375
+      },
+      {
+        "position": 95,
+        "original": "险",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0024306774139404297
+      },
+      {
+        "position": 98,
+        "original": "低",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.01426762342453003
+      },
+      {
+        "position": 91,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.038745880126953125
+      },
+      {
+        "position": 94,
+        "original": "风",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.022446870803833008
+      },
+      {
+        "position": 89,
+        "original": "益",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.05742990970611572
+      },
+      {
+        "position": 90,
+        "original": "非",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.05498594045639038
+      },
+      {
+        "position": 88,
+        "original": "收",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.05290079116821289
+      },
+      {
+        "position": 87,
+        "original": "，",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.04543966054916382
+      },
+      {
+        "position": 79,
+        "original": "常",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.01802009344100952
+      },
+      {
+        "position": 81,
+        "original": "健",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.014287412166595459
+      },
+      {
+        "position": 29,
+        "original": "资",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.00023514032363891602
+      },
+      {
+        "position": 70,
+        "original": "们",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0027417540550231934
+      },
+      {
+        "position": 73,
+        "original": "最",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.0055748820304870605
+      },
+      {
+        "position": 84,
+        "original": "资",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.01389002799987793
+      },
+      {
+        "position": 6,
+        "original": "里",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.4836273193359375e-06
+      },
+      {
+        "position": 8,
+        "original": "阳",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.396106719970703e-05
+      },
+      {
+        "position": 9,
+        "original": "光",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00010544061660766602
+      },
+      {
+        "position": 10,
+        "original": "投",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00024145841598510742
+      },
+      {
+        "position": 11,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0006160736083984375
+      },
+      {
+        "position": 12,
+        "original": "咨",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0002657175064086914
+      },
+      {
+        "position": 13,
+        "original": "询",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00010514259338378906
+      },
+      {
+        "position": 17,
+        "original": "张",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.007786154747009277
+      },
+      {
+        "position": 18,
+        "original": "经",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00019592046737670898
+      },
+      {
+        "position": 19,
+        "original": "理",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.005399882793426514
+      },
+      {
+        "position": 21,
+        "original": "您",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0005965232849121094
+      },
+      {
+        "position": 22,
+        "original": "最",
+        "replacement": "Y",
+        "success": false,
+        "gap": 3.6835670471191406e-05
+      },
+      {
+        "position": 23,
+        "original": "近",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.3768672943115234e-05
+      },
+      {
+        "position": 27,
+        "original": "对",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.1444091796875e-05
+      },
+      {
+        "position": 28,
+        "original": "投",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.9265880584716797e-05
+      },
+      {
+        "position": 30,
+        "original": "理",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.2159347534179688e-05
+      },
+      {
+        "position": 31,
+        "original": "财",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.2040138244628906e-05
+      },
+      {
+        "position": 33,
+        "original": "较",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.7881393432617188e-06
+      },
+      {
+        "position": 34,
+        "original": "感",
+        "replacement": "Y",
+        "success": false,
+        "gap": 5.245208740234375e-06
+      },
+      {
+        "position": 35,
+        "original": "兴",
+        "replacement": "Y",
+        "success": false,
+        "gap": 6.735324859619141e-06
+      },
+      {
+        "position": 36,
+        "original": "趣",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.3113021850585938e-06
+      },
+      {
+        "position": 38,
+        "original": "？",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.7418136596679688e-06
+      },
+      {
+        "position": 47,
+        "original": "最",
+        "replacement": "Y",
+        "success": false,
+        "gap": 3.123283386230469e-05
+      },
+      {
+        "position": 48,
+        "original": "近",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.633167266845703e-05
+      },
+      {
+        "position": 49,
+        "original": "确",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.3530254364013672e-05
+      },
+      {
+        "position": 50,
+        "original": "实",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.71661376953125e-05
+      },
+      {
+        "position": 53,
+        "original": "解",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.0728836059570312e-05
+      },
+      {
+        "position": 56,
+        "original": "投",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.2113323211669922e-05
+      },
+      {
+        "position": 57,
+        "original": "资",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.276897430419922e-05
+      },
+      {
+        "position": 58,
+        "original": "方",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.5033950805664062e-06
+      },
+      {
+        "position": 59,
+        "original": "面",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.4901161193847656e-06
+      },
+      {
+        "position": 61,
+        "original": "事",
+        "replacement": "Y",
+        "success": false,
+        "gap": 7.927417755126953e-06
+      },
+      {
+        "position": 62,
+        "original": "情",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.8715858459472656e-05
+      },
+      {
+        "position": 65,
+        "original": "太",
+        "replacement": "Y",
+        "success": false,
+        "gap": 1.436471939086914e-05
+      },
+      {
+        "position": 86,
+        "original": "目",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009748339653015137
+      },
+      {
+        "position": 63,
+        "original": "。",
+        "replacement": "Y",
+        "success": false,
+        "gap": 2.9802322387695312e-06
+      },
+      {
+        "position": 80,
+        "original": "稳",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00020867586135864258
+      },
+      {
+        "position": 74,
+        "original": "近",
+        "replacement": "Y",
+        "success": false,
+        "gap": 9.298324584960938e-05
+      },
+      {
+        "position": 78,
+        "original": "非",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00016546249389648438
+      },
+      {
+        "position": 77,
+        "original": "个",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00014513731002807617
+      },
+      {
+        "position": 83,
+        "original": "投",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.000659644603729248
+      },
+      {
+        "position": 103,
+        "original": "趣",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.004015207290649414
+      },
+      {
+        "position": 118,
+        "original": "以",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.002004683017730713
+      },
+      {
+        "position": 111,
+        "original": "听",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.019326984882354736
+      },
+      {
+        "position": 115,
+        "original": "错",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.003041684627532959
+      },
+      {
+        "position": 124,
+        "original": "细",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 73,
+    "text_length": 322
+  },
+  {
+    "original_text": "喂，你好，能听到吗？ 可以，你说吧。 哦，我是工商银行的客服专员，我们注意到你之前在我们这里有贷款记录，现在可以为你提供一笔额外的三十万额度备用金。 真的吗？怎么操作？ 是的，这是一次特别的机会。你只需要点击我们发送给你的链接，填写一些基本信息，就可以完成申请。 链接？怎么给我？ 我可以直接通过短信给你发送链接，你只需要提供你的手机号码，我们马上给你发送。 好吧，那我的手机号是13800138000。 好的，13800138000，我们马上给你发送链接。另外，如果你有任何疑问，可以加我的微信，我叫李华，微信号也是我的手机号。 好的，我等着。",
+    "adversarial_text": "喂，你好，能听到吗？ 可以，你说吧。 哦，我是工商银行的客服专员，我们注意到你之前在我们这里有贷款记录，现在可以为你提供一YYY的YXXY度备用金。 真的吗？怎么操作？ 是的，这是一次特别的机会。你X需要点击我们发送给你的链接，填写一些基本X息，就可以完成申请。 链接？怎么给我？ 我可以直接通过短信给你发送链接，你只需要提供你的手机号码，我们马上给你发送。 好吧，那我的手机号是13800138000。 好的，13800138000，我们马上给你发送链接。另外，如果你有任何疑问，可以加我的微信，我叫李华，微信号也是我的手机号。 好的，我等着。",
+    "label": 1,
+    "query_times": 298,
+    "changes": [
+      {
+        "position": 67,
+        "original": "万",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.12066060304641724
+      },
+      {
+        "position": 66,
+        "original": "十",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.01519775390625
+      },
+      {
+        "position": 61,
+        "original": "笔",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.004362344741821289
+      },
+      {
+        "position": 63,
+        "original": "外",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0010962486267089844
+      },
+      {
+        "position": 62,
+        "original": "额",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.00046259164810180664
+      },
+      {
+        "position": 120,
+        "original": "信",
+        "replacement": "X",
+        "success": false,
+        "gap": 0.26603370904922485
+      },
+      {
+        "position": 65,
+        "original": "三",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009331107139587402
+      },
+      {
+        "position": 68,
+        "original": "额",
+        "replacement": "Y",
+        "success": false,
+        "gap": 0.0009646415710449219
+      },
+      {
+        "position": 99,
+        "original": "只",
+        "replacement": "X",
+        "success": true
+      }
+    ],
+    "change_count": 9,
+    "text_length": 273
+  }
+]
